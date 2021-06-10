@@ -1,0 +1,28 @@
+---
+layout: page
+title: Portfolio
+permalink: /
+enumerate: true
+---
+
+<div class="portfolio">
+	{% for entry in site.data.portfolio %}
+		<div class="portfolio-entry">
+			{% if entry.thumbnail != null %}
+				<a href="{{ entry.link }}">
+					<img src="{{ entry.thumbnail }}" class="portfolio-entry-thumbnail" alt="thumbnail">
+				</a>
+			{% endif %}
+			<a href="{{ entry.link }}">
+				<span class="portfolio-entry-title">{{ entry.title }}</span>
+			</a>
+			<span class="portfolio-entry-desc">{{ entry.description }}</span>
+			<span class="portfolio-entry-ctx">{{ entry.context }}</span>
+			<ul class="portfolio-entry-roles">
+				{% for role in entry.roles %}
+					<li>{{ role }}</li>
+				{% endfor %}
+			</ul>
+		</div>
+	{% endfor %}
+</div>
