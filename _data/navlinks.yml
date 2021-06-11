@@ -1,0 +1,9 @@
+- name: Home
+  url: /
+  icon: fa-home
+- name: Projects
+  url: /works
+  icon: fa-briefcase
+- name: About
+  url: /about
+  icon: fa-compass
