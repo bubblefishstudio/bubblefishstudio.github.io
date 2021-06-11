@@ -1,5 +1,17 @@
-@import "bootstrap/bootstrap.scss";
 
-body {
-	color: red;
+main-header {
+	//@include container;
+	background-color: #eee;
+}
+
+// == BRAND ==
+.brand-logo {
+	height: 2em;
+	vertical-align: -4.5px;
+}
+.brand-name {
+	font-size: 1.5em;
+	margin-left: -8px;
+	color: #6a74ff;
+	font-weight: 500;
 }

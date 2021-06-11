@@ -2,3 +2,4 @@ title: BubbleFishStudio
 locale: en_US
 baseurl: ""
 url: "https://bubblefish.studio"
+sass.style: compressed

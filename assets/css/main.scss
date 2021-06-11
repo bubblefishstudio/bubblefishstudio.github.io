@@ -4,7 +4,9 @@
 
 // external libraries
 @import "fa.min.css";
+@import "bootstrap-overrides.scss";
+@import "bootstrap";
 
-// entry point
+// other main stuff
 @import "main.scss";
 
