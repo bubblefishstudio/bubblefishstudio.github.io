@@ -1,8 +1,8 @@
-- name: Home
-  url: /
-  icon: fa-home
+#- name: Home
+#  url: /
+#  icon: fa-home
 - name: Projects
-  url: /works
+  url: /
   icon: fa-briefcase
 - name: About
   url: /about

@@ -20,6 +20,7 @@ body {
 .main-content {
 	flex-grow: 1;
 	overflow: hidden;
+	padding: 2em;
 }
 
 .main-footer {
@@ -27,7 +28,7 @@ body {
 }
 
 
-// == BRAND ==
+// == MAIN BAR ==
 .brand-logo {
 	height: 2em;
 	position: relative;
@@ -38,4 +39,10 @@ body {
 	margin-left: -8px;
 	color: #6a74ff;
 	font-weight: 500;
+}
+
+.navbar-nav .active {
+	color: $link-hover-color;
+	background-color: #f8f8f8;
+	border-radius: 0.5em;
 }
