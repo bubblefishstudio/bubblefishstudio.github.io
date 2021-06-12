@@ -3,7 +3,11 @@
 #  icon: fa-home
 - name: Projects
   url: /
-  icon: fa-briefcase
+  icon: fa fa-briefcase
 - name: About
   url: /about
-  icon: fa-compass
+  icon: fa fa-compass
+- name:
+  url: https://github.com/bubblefishstudio
+  icon: fab fa-github
+  external: true
