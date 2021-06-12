@@ -1,13 +1,37 @@
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
 
-main-header {
-	//@include container;
+.main-header, .main-footer {
 	background-color: #eee;
 }
+
+.main-bar, .main-content, .footline {
+	max-width: 1000px;
+	margin: auto;
+}
+
+.main-bar {
+	justify-content: space-between;
+}
+
+.main-content {
+	flex-grow: 1;
+	overflow: hidden;
+}
+
+.main-footer {
+	padding: 2em;
+}
+
 
 // == BRAND ==
 .brand-logo {
 	height: 2em;
-	vertical-align: -4.5px;
+	position: relative;
+	bottom: 0.45em;
 }
 .brand-name {
 	font-size: 1.5em;

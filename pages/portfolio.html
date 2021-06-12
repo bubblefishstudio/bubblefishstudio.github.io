@@ -9,11 +9,11 @@ enumerate: true
 	{% for entry in site.data.portfolio %}
 		<div class="portfolio-entry">
 			{% if entry.thumbnail != null %}
-				<a href="{{ entry.link }}">
+				<a href="{{ entry.link }}" target="_blank">
 					<img src="{{ entry.thumbnail }}" class="portfolio-entry-thumbnail" alt="thumbnail">
 				</a>
 			{% endif %}
-			<a href="{{ entry.link }}">
+			<a href="{{ entry.link }}" target="_blank">
 				<span class="portfolio-entry-title">{{ entry.title }}</span>
 			</a>
 			<span class="portfolio-entry-desc">{{ entry.description }}</span>

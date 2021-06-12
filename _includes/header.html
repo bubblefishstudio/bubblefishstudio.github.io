@@ -1,10 +1,13 @@
-<div class="brand">
-	<img class="brand-logo" src="/assets/images/logo.png">
-	<span class="brand-name">BubbleFishStudio</span>
-</div>
-
-<nav class="navbar">
-	{% for link in site.data.navlinks %}
-		<a href="{{link.url}}"><span class="fa fa-fw {{link.icon}}"></span>{{link.name}}</a>
-	{% endfor %}
+<nav class="main-bar navbar navbar-expand">
+	<div class="brand navbar-brand">
+		<a class="nav-link" href="/">
+			<img class="brand-logo" src="/assets/images/logo.png">
+			<span class="brand-name">BubbleFishStudio</span>
+		</a>
+	</div>
+	<div class="navbar-nav">
+		{% for link in site.data.navlinks %}
+			<a class="nav-link" href="{{link.url}}"><span class="fa fa-fw {{link.icon}}"></span>{{link.name}}</a>
+		{% endfor %}
+	</div>
 </nav>
