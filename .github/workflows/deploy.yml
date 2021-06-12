@@ -14,18 +14,20 @@ jobs:
       - name: Cache gems 🔧
         uses: actions/cache@v1
         with:
-          path: vendor/gems
+          path: vendor/bundle
           key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-build-
             ${{ runner.os }}-
 
       - name: Build Jekyll 🔧
-        uses: DavidS/jekyll-deploy@main
-        with:
-          build-only: true
-        env:
-          JEKYLL_ENV: production
+        run: |
+          gem install bundler
+          bundle config set deployment true
+          bundle install --jobs=4 --retry=3
+          export JEKYLL_ENV=production
+          bundle exec jekyll build --verbose --trace
+          touch _site/.nojekyll
 
       - name: Setup custom domain 🔧
         run: echo bubblefish.studio > _site/CNAME
