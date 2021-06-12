@@ -27,6 +27,9 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+    - name: Setup custom domain 🔧
+      run: echo bubblefish.studio > _site/CNAME
+
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3.6.1
         with:
