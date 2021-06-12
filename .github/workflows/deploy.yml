@@ -21,12 +21,11 @@ jobs:
             ${{ runner.os }}-
 
       - name: Build Jekyll 🔧
-        uses: DavidS/jekyll-deploy@
+        uses: DavidS/jekyll-deploy@main
         with:
           build-only: true
         env:
           JEKYLL_ENV: production
-          GH_PAGES_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3.6.1
