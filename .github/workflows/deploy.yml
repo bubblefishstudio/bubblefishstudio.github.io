@@ -11,22 +11,18 @@ jobs:
       - name: Checkout 🛎️
         uses: actions/checkout@v2
 
-      - name: Cache gems 🔧
-        uses: actions/cache@v1
+      - name: Setup Ruby & Deps 🔧
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
+          ruby-version: 2.6
+          bundler-cache: true
 
       - name: Build Jekyll 🔧
         run: |
-          # gem install bundler
-          bundle install --deployment --jobs=4 --retry=3
-          export JEKYLL_ENV=production
           bundle exec jekyll build --verbose --trace
           touch _site/.nojekyll
+        env:
+          JEKYLL_ENV: production
 
       - name: Setup custom domain 🔧
         run: echo bubblefish.studio > _site/CNAME
