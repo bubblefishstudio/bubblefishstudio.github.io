@@ -8,9 +8,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
 
-      - name: Cache gems
+      - name: Cache gems 🔧
         uses: actions/cache@v1
         with:
           path: vendor/gems
@@ -19,9 +20,16 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
 
-      - name: Build & Deploy to GitHub Pages
-        uses: DavidS/jekyll-deploy@main
+      - name: Build Jekyll 🔧
+        uses: DavidS/jekyll-deploy@
+        with:
+          build-only: true
         env:
           JEKYLL_ENV: production
           GH_PAGES_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
 
+      - name: Deploy 🚀
+        uses: peaceiris/actions-gh-pages@v3.6.1
+        with:
+          publish_dir: _site
+          github_token: ${{ secrets.GITHUB_TOKEN }}
