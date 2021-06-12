@@ -22,9 +22,8 @@ jobs:
 
       - name: Build Jekyll 🔧
         run: |
-          gem install bundler
-          bundle config set deployment true
-          bundle install --jobs=4 --retry=3
+          # gem install bundler
+          bundle install --deployment --jobs=4 --retry=3
           export JEKYLL_ENV=production
           bundle exec jekyll build --verbose --trace
           touch _site/.nojekyll
