@@ -1,0 +1,13 @@
+<nav class="main-bar navbar navbar-expand">
+	<div class="brand navbar-brand">
+		<a class="nav-link" href="/">
+			<img class="brand-logo" src="/assets/images/logo.png">
+			<span class="brand-name">{{site.title}}</span>
+		</a>
+	</div>
+	<div class="navbar-nav">
+		{% for link in site.data.navlinks %}
+			<a class="nav-link {% if link.url == page.url %}active{% endif %}" href="{{link.url}}"><span class="fa fa-fw {{link.icon}}"></span>{{link.name}}</a>
+		{% endfor %}
+	</div>
+</nav>

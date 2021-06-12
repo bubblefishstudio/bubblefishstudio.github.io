@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		{% if page.title != null %}
+		<title>{{ page.title }} | {{ site.title }} </title>
+		{% else %}
+		<title>{{ site.title }}</title>
+		{% endif %}
+
+		<meta name="description" content="{{ page.description }}">
+		<link rel="stylesheet" href="/assets/css/main.css">
+		<link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png">
+	</head>
+	<body>
+		<header class="main-header">
+			{% include header.html %}
+		</header>
+		<section class="main-content">
+			{{ content }}
+		</section>
+		<footer class="main-footer">
+			{% include footer.html %}
+		</footer>
+	</body>
+</html>

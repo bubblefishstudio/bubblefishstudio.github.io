@@ -1,0 +1,23 @@
+- title: San Pellegrino Soundtrack
+  description: >-
+    Unofficial soundtrack synchronization to the official advertisement of San Pellegrino.
+  link: https://www.youtube.com/watch?v=UKfQWL5NSGw
+  roles: ["Composition", "Sound Design"]
+  context: Final project of Music Production Technologies course @ Politecnico di Milano
+  thumbnail: https://i3.ytimg.com/vi/UKfQWL5NSGw/maxresdefault.jpg
+
+- title: Meldy
+  description: >-
+    A mood-based melody generator based on a Markov-chain approach.
+  link: https://bubblefish.studio/meldy
+  roles: ["Programming"]
+  context: Final project of CMRM and ACTAM courses @ Politecnico di Milano
+  thumbnail: https://bubblefish.studio/meldy/docs/pic/score.png
+
+- title: alphaXmas
+  description: >-
+    A generator of interactive Christmas postcards based on LSTM-RNN melody generation and L-system graphics generation.
+  link: https://bubblefish.studio/alphaXmas
+  roles: ["Programming"]
+  context: Final project of Creative Programming and Computing course @ Politecnico di Milano
+  thumbnail: https://bubblefish.studio/alphaXmas/docs/pic/display.png
