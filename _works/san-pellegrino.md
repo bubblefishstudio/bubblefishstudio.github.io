@@ -1,7 +1,7 @@
 ---
 title: San Pellegrino Soundtrack
 summary: Unofficial soundtrack synchronization to the official advertisement of San Pellegrino.
-link: https://www.youtube.com/watch?v=UKfQWL5NSGw
+link: https://vimeo.com/594625753
 tags:
   - Composition
   - Sound Design
