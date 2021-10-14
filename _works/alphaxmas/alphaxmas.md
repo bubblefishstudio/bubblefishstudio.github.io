@@ -20,4 +20,7 @@ Each time the webpage is loaded, a unique tree and melody are generated: occasio
 
 This project was developed for the course "Creative Programming and Computing" from MSc degree in Music and Acoustic Engineering at Politecnico di Milano.
 
-![image](tree.png)
+- [<i class="fas fa-globe fa-fw"></i> Application](https://alphaxmas.bubblefish.studio/)
+- [<i class="fas fa-file-pdf fa-fw"></i> Detailed report document](https://alphaxmas.bubblefish.studio/docs/report.pdf)
+- [<i class="fas fa-file-pdf fa-fw"></i> Project Presentation](https://alphaxmas.bubblefish.studio/docs/cpc_final.html)
+- [<i class="fas fa-code fa-fw"></i> Source Code](https://github.com/bubblefishstudio/alphaXmas)
