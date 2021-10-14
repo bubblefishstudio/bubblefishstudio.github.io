@@ -7,7 +7,7 @@ tags:
   - Composition
   - Sound Design
 context: "A project made for the Wine Brand: Santa Margherita Pinot Bianco, included in their 60’s anniversary exhibition with @Current"
-thumbnail: https://i.vimeocdn.com/video/1222890035?mw=1700&mh=956&q=70
+thumbnail: /works/taste-of-pinot/saint.png
 date: 2021-06-20
 ---
 
@@ -23,7 +23,7 @@ This project is a site-specific composition of music and acoustic design for the
 
 The event took place at the 16th century church S. Francesco Della Vigna, in Venice, Italy, which also includes a historical 500m² wine yard inside. According to the unique architecture of the two cloisters area, we designed a two-part soundtrack for this exhibition event, in order to give a continue sense of the space for the guests to follow.
 
-![Saint Statue](saint.png)
+![Saint Statue](church.png)
 
 The two parts have the same duration of 6:32 minutes. The second part consist of a layered-up version of the first one, with more dynamics and rhythmic details. The transition between the two is continue and smooth for the audience, creating an extra sense of comfort and relaxing atmosphere.
 
