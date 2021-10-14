@@ -12,7 +12,8 @@ collections:
 defaults:
   -
     scope:
-      path: ""
+      path: "_works/*/*.md"
       type: "works"
     values:
+      permalink: ":collection/:name"
       layout: "page"

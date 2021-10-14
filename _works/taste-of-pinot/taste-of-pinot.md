@@ -10,3 +10,7 @@ context: "A project made for the Wine Brand: Santa Margherita Pinot Bianco, incl
 thumbnail: https://i.vimeocdn.com/video/1222890035?mw=1700&mh=956&q=70
 date: 2021-06-20
 ---
+
+# Pinot Bianco Soundtrack
+
+<iframe src="https://player.vimeo.com/video/591565838?h=37671d1c49&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
