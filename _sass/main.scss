@@ -46,3 +46,20 @@ body {
 	background-color: #f8f8f8;
 	border-radius: 0.5em;
 }
+
+/* content stuff */
+
+.main-content {
+	text-align: justify;
+
+	iframe, p > img, p > svg {
+		display: block;
+		margin: auto;
+	}
+	img, svg {
+		max-width: 80%;
+	}
+	iframe {
+		margin-bottom: 1rem;
+	}
+}
