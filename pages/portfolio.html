@@ -10,11 +10,11 @@ enumerate: true
 	{% for entry in works_collection.docs %}
 		<div class="portfolio-entry">
 			{% if entry.thumbnail != null %}
-				<a href="{{ entry.link }}" target="_blank">
+				<a href="{{ entry.url }}">
 					<img src="{{ entry.thumbnail }}" class="portfolio-entry-thumbnail" alt="thumbnail">
 				</a>
 			{% endif %}
-			<a href="{{ entry.link }}" target="_blank">
+			<a href="{{ entry.url }}">
 				<span class="portfolio-entry-title">{{ entry.title }}</span>
 			</a>
 			<span class="portfolio-entry-desc">{{ entry.summary }}</span>
