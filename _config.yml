@@ -15,5 +15,5 @@ defaults:
       path: "_works/*/*.md"
       type: "works"
     values:
-      permalink: ":collection/:name"
+      permalink: ":collection/:name/"
       layout: "page"
