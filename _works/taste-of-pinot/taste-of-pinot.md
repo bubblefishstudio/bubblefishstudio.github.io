@@ -1,6 +1,6 @@
 ---
 title: Taste of Pinot
-summary: A site-specific sound design for the 60th anniversary exhibition of the wine brand Pinot Grigio Santa Margherita. 
+summary: A site-specific sound design for a historical exhibition.
 link: https://vimeo.com/591565838
 tags:
   - Acoustics
