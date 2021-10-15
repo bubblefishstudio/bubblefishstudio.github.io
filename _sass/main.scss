@@ -16,10 +16,6 @@ body {
 
 .main-bar {
 	justify-content: space-between;
-
-	.nav-link {
-		padding: 0;
-	}
 }
 
 .main-header {
@@ -39,6 +35,9 @@ body {
 
 
 // == MAIN BAR ==
+.navbar-brand .nav-link {
+	padding: 0;
+}
 .brand-logo {
 	height: 2em;
 	position: relative;
