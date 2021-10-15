@@ -1,12 +1,5 @@
-#- name: Home
-#  url: /
-#  icon: fa-home
-- name: Projects
-  url: /
-  icon: fa fa-briefcase
-- name: About
-  url: /about
-  icon: fa fa-compass
+# Provide extra links in this file
+
 - name:
   url: https://github.com/bubblefishstudio
   icon: fab fa-github

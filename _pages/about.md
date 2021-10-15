@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about
 enumerate: true
+nav-icon: fa fa-compass
 ---
 
 About Us
