@@ -58,5 +58,3 @@ Finally, according to the site reverberation, noise and acoustic conditions, we 
 - Concept: Yilin Zhu, Chiara Isadora Artico
 - Music & Sound Design: Yilin Zhu, Matteo Bernardini
 - Photo Report: Matteo Bernardini
-
-
