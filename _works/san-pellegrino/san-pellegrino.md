@@ -19,7 +19,7 @@ This project is an unofficial composition & sound design synchronization for the
 This is the final project for the course "Music Production Technologies" from MSc degree in Music and Acoustic Engineering at Politecnico di Milano.
 
 ---
-## Details
-- Composition & Arrangement: Matteo Bernardini, Yilin Zhu
-- Sound Design: Matteo Bernardini (sound fx), Yilin Zhu (sound fx), Karol Szymański (background sound)
-- Mixing: Karol Szymański
+- Composition & Arrangement: *Matteo Bernardini, Yilin Zhu*
+- Sound Design: *Matteo Bernardini (sound fx), Yilin Zhu (sound fx), Karol Szymański (background sound)*
+- Mixing: *Karol Szymański*
+- Supervisors: *Vittorio Cosma, Massimiliano Zanoni*

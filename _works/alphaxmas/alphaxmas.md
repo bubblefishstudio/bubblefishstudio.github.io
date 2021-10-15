@@ -24,3 +24,8 @@ This project was developed for the course "Creative Programming and Computing" f
 - [<i class="fas fa-file-pdf fa-fw"></i> Detailed report document](https://alphaxmas.bubblefish.studio/docs/report.pdf)
 - [<i class="fas fa-file-pdf fa-fw"></i> Project Presentation](https://alphaxmas.bubblefish.studio/docs/cpc_final.html)
 - [<i class="fas fa-code fa-fw"></i> Source Code](https://github.com/bubblefishstudio/alphaXmas)
+
+---
+- Music AI modeling & training: *Yilin Zhu*
+- 3D graphics & software engineering: *Matteo Bernardini*
+- Supervisors: *Massimiliano Zanoni, Luca Comanducci, Michele Buccoli*

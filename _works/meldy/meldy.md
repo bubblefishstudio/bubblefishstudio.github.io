@@ -21,3 +21,6 @@ This project was developed for the courses "Advanced Coding Tools and Methodolog
 - [<i class="fas fa-file-pdf fa-fw"></i> Project Presentation](https://meldy.bubblefish.studio/docs/slides2.html)
 - [<i class="fas fa-code fa-fw"></i> Source Code](https://github.com/bubblefishstudio/meldy)
 
+---
+- Development: *Yilin Zhu, Matteo Bernardini*
+- Supervisor: *Augusto Sarti*

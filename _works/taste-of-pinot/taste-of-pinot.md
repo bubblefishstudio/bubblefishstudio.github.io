@@ -52,9 +52,8 @@ We composed this music and sound design to let the audience hear the source of t
 Finally, according to the site reverberation, noise and acoustic conditions, we prepared a suitable mixing for these tracks and used them during the exhibition period in June, 2021.
 
 ---
-## Details
-- Exhibition Time: June 23rd to 29th, 2021
-- Location: Venice, Italy
-- Concept: Yilin Zhu, Chiara Isadora Artico
-- Music & Sound Design: Yilin Zhu, Matteo Bernardini
-- Photo Report: Matteo Bernardini
+- Exhibition Time: *June 23rd to 29th, 2021*
+- Location: *Venice, Italy*
+- Concept: *Yilin Zhu, Chiara Isadora Artico*
+- Music & Sound Design: *Yilin Zhu, Matteo Bernardini*
+- Photo Report: *Yilin Zhu, Matteo Bernardini*
