@@ -10,9 +10,6 @@ thumbnail: https://bubblefish.studio/meldy/docs/pic/score.png
 date: 2020-07-03
 ---
 
-Meldy - A mood-based melody generator
-=====================================
-
 Meldy is a Web Application in the field of *Computer Generated Art*, creating simple melody scores based on a user-provided mood. Generated scores can be played back in the browser using MIDI sequencing or downloaded in MusicXML format for further editing using any notation software, while moods are described in terms of "valence" and "arousal" in a 2D picker.
 
 This project was developed for the courses "Advanced Coding Tools and Methodologies" and "Computer Music: Representations and Models" from the MSc degree in Music and Acoustic Engineering of Politecnico di Milano.

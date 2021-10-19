@@ -19,7 +19,7 @@ defaults:
       type: "works"
     values:
       permalink: ":collection/:name/"
-      layout: "page"
+      layout: "project"
   -
     scope:
       path: "_pages/*"
