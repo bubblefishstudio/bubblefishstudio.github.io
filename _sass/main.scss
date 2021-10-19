@@ -76,3 +76,15 @@ body {
 .copyright {
 	text-align: center;
 }
+
+
+// === GENERIC COMPONENTS ===
+blockquote {
+	margin-left: 1em;
+	border-left: 2px solid;
+	padding: 5px 0 5px 1em;
+
+	& > :last-child {
+		margin-bottom: 0;
+	}
+}
