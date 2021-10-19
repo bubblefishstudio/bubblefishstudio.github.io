@@ -40,12 +40,6 @@ body {
 	position: relative;
 	bottom: 0.4em;
 	padding-right: 8px;
-	fill: $nav-link-color;
-	transition: fill 0.15s ease-in-out;
-
-	.brand:hover & {
-		fill: $nav-link-hover-color;
-	}
 }
 .brand-name {
 	display: inline;
