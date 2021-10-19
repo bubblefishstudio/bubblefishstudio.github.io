@@ -1,6 +1,6 @@
 ---
 title: alphaXmas
-summary: Web installation of Christmas trees based on LSTM-RNN melody generation and L-system graphics generation.
+summary: Web installation of Christmas trees with real-time melody and graphics generation.
 link: https://bubblefish.studio/alphaXmas
 tags:
   - Generative art

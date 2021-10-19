@@ -1,6 +1,6 @@
 ---
 title: Meldy
-summary: A mood-based melody score generator based on an L-system approach.
+summary: A simple melody score generator based on an input mood.
 link: https://bubblefish.studio/meldy
 tags:
   - Generative art
