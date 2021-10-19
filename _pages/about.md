@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-enumerate: true
 nav-icon: fa fa-compass
 ---
 

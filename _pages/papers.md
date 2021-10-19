@@ -2,7 +2,6 @@
 layout: page
 title: Reports
 permalink: /papers
-enumerate: true
 nav-icon: fas fa-file-alt
 ---
 
