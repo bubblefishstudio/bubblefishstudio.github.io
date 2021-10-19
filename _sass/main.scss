@@ -35,9 +35,6 @@ body {
 
 
 // == MAIN BAR ==
-.navbar-brand .nav-link {
-	padding: 0;
-}
 .brand-logo {
 	height: 1.4em;
 	position: relative;
@@ -51,6 +48,7 @@ body {
 	}
 }
 .brand-name {
+	display: inline;
 	font-size: 1.5em;
 	margin-left: -8px;
 	font-weight: 500;
@@ -62,8 +60,8 @@ body {
 	border-radius: 0.5em;
 }
 
-/* content stuff */
 
+// === MAIN CONTENT ===
 .main-content {
 	text-align: justify;
 
@@ -77,4 +75,10 @@ body {
 	iframe {
 		margin-bottom: 1rem;
 	}
+}
+
+
+// === MAIN FOOTER ===
+.copyright {
+	text-align: center;
 }
