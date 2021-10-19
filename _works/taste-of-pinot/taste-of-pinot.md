@@ -6,7 +6,7 @@ tags:
   - Acoustics
   - Composition
   - Sound Design
-context: "A project made for the Wine Brand: Santa Margherita Pinot Bianco, included in their 60’s anniversary exhibition with @Current"
+context: "A project made for the Wine Brand: Santa Margherita Pinot Bianco, included in their 60th anniversary exhibition with @Current"
 thumbnail: /works/taste-of-pinot/saint.jpg
 date: 2021-06-20
 ---
