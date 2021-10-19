@@ -1,6 +1,7 @@
 # Provide extra links in this file
 
-- name:
-  url: https://github.com/bubblefishstudio
+- url: https://github.com/bubblefishstudio
   icon: fab fa-github
   external: true
+- url: mailto:info@bubblefish.studio
+  icon: fas fa-envelope
