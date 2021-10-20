@@ -1,5 +1,4 @@
 ---
-layout: page
 title: About
 nav-icon: fa fa-compass
 ---

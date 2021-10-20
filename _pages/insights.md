@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Insights
 enumerate: false
 order: 4

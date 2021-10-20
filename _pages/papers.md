@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Reports
-permalink: /papers
 nav-icon: fas fa-file-alt
 ---
 
