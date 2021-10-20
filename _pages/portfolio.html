@@ -21,8 +21,8 @@ nav-icon: fa fa-briefcase
 				</a>
 			</div>
 			<div class="portfolio-entry-card">
-				<p class="portfolio-entry-line portfolio-entry-ctx">{{ entry.context }}</p>
-				<ul class="portfolio-entry-line portfolio-entry-tags">
+				<p class="portfolio-entry-ctx">{{ entry.context }}</p>
+				<ul class="portfolio-entry-tags">
 					{% for tag in entry.tags %}
 						<li>{{ tag }}</li>
 					{% endfor %}
