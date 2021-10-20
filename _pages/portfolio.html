@@ -4,25 +4,30 @@ permalink: /
 nav-icon: fa fa-briefcase
 ---
 
+<style>
+	.main-content { max-width: none; }
+</style>
+
 <div class="portfolio">
 	{% assign works_collection = site.collections | where: "label", "works" | first %}
-	{% for entry in works_collection.docs %}
-		<div class="portfolio-entry">
-			{% if entry.thumbnail != null %}
+	{% assign works_docs = works_collection.docs | sort: "date" | reverse %}
+	{% for entry in works_docs %}
+		<article class="portfolio-entry">
+			<div class="portfolio-entry-preview">
 				<a href="{{ entry.url }}">
+					<h2 class="portfolio-entry-title">{{ entry.title }}</h2>
 					<img src="{{ entry.thumbnail }}" class="portfolio-entry-thumbnail" alt="thumbnail">
+					<p class="portfolio-entry-line portfolio-entry-desc">{{ entry.summary }}</p>
 				</a>
-			{% endif %}
-			<a href="{{ entry.url }}">
-				<span class="portfolio-entry-title">{{ entry.title }}</span>
-			</a>
-			<span class="portfolio-entry-desc">{{ entry.summary }}</span>
-			<span class="portfolio-entry-ctx">{{ entry.context }}</span>
-			<ul class="portfolio-entry-roles">
-				{% for tag in entry.tags %}
-					<li>{{ tag }}</li>
-				{% endfor %}
-			</ul>
-		</div>
+			</div>
+			<div class="portfolio-entry-card">
+				<p class="portfolio-entry-line portfolio-entry-ctx">{{ entry.context }}</p>
+				<ul class="portfolio-entry-line portfolio-entry-tags">
+					{% for tag in entry.tags %}
+						<li>{{ tag }}</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</article>
 	{% endfor %}
 </div>
