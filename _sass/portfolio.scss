@@ -38,6 +38,7 @@
 .portfolio-entry-title, .portfolio-entry-desc {
 	text-shadow: 0 0 2px #333;
 	background-color: rgba(0,0,0,0.3);
+	backdrop-filter: blur(1px);
 	position: absolute; left: 0; right: 0;
 	padding: 0.5em 1em;
 	margin: 0;
