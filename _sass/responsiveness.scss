@@ -1,0 +1,25 @@
+@media screen and (max-width: 56.25rem) {
+	.navbar {
+		flex-wrap: wrap;
+	}
+
+	.navbar-toggler.navbar-toggler {
+		display: block;
+	}
+
+	.navbar-nav {
+		display: none;
+	}
+
+	.main-bar-toggler:checked ~ .navbar-nav {
+		display: flex;
+		flex-direction: column;
+		flex-basis: 100%;
+	}
+}
+
+@media screen and (max-width: 32.5rem) {
+	.navbar-brand {
+		font-size: 1rem;
+	}
+}
