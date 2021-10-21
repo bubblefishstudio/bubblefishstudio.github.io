@@ -6,7 +6,7 @@ tags:
   - Generative art
   - Programming
 context: Final project of CMRM and ACTAM courses @ Politecnico di Milano
-thumbnail: https://bubblefish.studio/meldy/docs/pic/score.png
+thumbnail: /works/meldy/score.png
 date: 2020-07-03
 ---
 

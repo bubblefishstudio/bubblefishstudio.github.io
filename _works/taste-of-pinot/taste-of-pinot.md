@@ -7,7 +7,7 @@ tags:
   - Composition
   - Sound Design
 context: "Project made for the 60th anniversary of the Wine Brand: Santa Margherita Pinot Bianco, in collaboration with IoDeposito Ngo"
-thumbnail: /works/taste-of-pinot/saint.jpg
+thumbnail: /works/taste-of-pinot/panels.png
 date: 2021-06-20
 ---
 
