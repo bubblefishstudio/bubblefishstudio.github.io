@@ -7,14 +7,20 @@
 		}
 	}
 
-	.main-bar-links {
-		display: none;
+	.main-bar-links.main-bar-links {
+		transform: scaleY(0);
+		transform-origin: top;
+		overflow: hidden;
+		height: 0;
+
+		flex-direction: column;
+		flex-basis: 100%;
+		transition: transform ease-in-out 200ms;
 	}
 
 	.main-bar-toggler:checked ~ .main-bar-links {
-		display: flex;
-		flex-direction: column;
-		flex-basis: 100%;
+		transform: scaleY(1);
+		height: auto;
 	}
 }
 
