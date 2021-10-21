@@ -13,7 +13,7 @@
 		<span class="navbar-toggler-icon"></span>
 	</label>
 	<input type="checkbox" id="main-bar-toggler" class="main-bar-toggler">
-	<div class="navbar-nav" id="collapsableLinks">
+	<div class="main-bar-links navbar-nav" id="collapsableLinks">
 		{% assign pages = site.collections | where: "label", "pages" | first %}
 		{% assign doc_pages = pages.docs | where_exp: "item", "item.enumerate != false" | sort: "order", "first" %}
 		{% for section in doc_pages %}
