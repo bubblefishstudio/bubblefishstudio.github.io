@@ -12,29 +12,36 @@ collections:
     output: true
 
 defaults:
-  -
+  - # english versions (default)
     scope:
-      path: "_works/*/*.md"
-      type: "works"
-    values:
-      permalink: ":collection/:name/"
-      layout: "project"
-  -
-    scope:
-      path: "_pages/en/*"
-      type: "pages"
+      path: ""
     values:
       lang: "en"
+
   -
     scope:
-      path: "_pages/it/*"
       type: "pages"
+      path: "_pages/*"
+    values:
+      layout: "page"
+      permalink: ":path"
+  - # italian pages
+    scope:
+      type: "pages"
+      path: "_pages/it/*"
     values:
       lang: "it"
+
   -
     scope:
-      path: "_pages/*"
-      type: "pages"
+      type: "works"
     values:
-      permalink: ":path"
-      layout: "page"
+      layout: "project"
+      permalink: "/en/:collection/:name"
+  - # italian projects
+    scope:
+      type: "works"
+      path: "_works/it/*"
+    values:
+      permalink: "/it/:collection/:name"
+      lang: "it"
