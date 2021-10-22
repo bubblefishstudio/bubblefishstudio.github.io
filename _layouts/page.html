@@ -1,15 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-	{% include head.html %}
-	<body>
-		<header class="main-header">
-			{% include header.html %}
-		</header>
-		<section class="main-content">
-			{{ content }}
-		</section>
-		<footer class="main-footer">
-			{% include footer.html %}
-		</footer>
-	</body>
-</html>
+{% capture main %}
+<section class="main-content">
+	{{ content }}
+</section>
+{% endcapture %}
+
+{% include layout1.html main=main lang=page.lang %}
