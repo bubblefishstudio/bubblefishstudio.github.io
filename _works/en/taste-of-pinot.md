@@ -17,21 +17,21 @@ date: 2021-06-20
 
 This project is a site-specific composition of music and acoustic design for the 60th anniversary exhibition of the wine brand Pinot Grigio Santa Margherita. 
 
-![presentation images](slide.jpg)
+![presentation images](/assets/works/taste-of-pinot/slide.jpg)
 
 The event took place at the 16th century church S. Francesco Della Vigna, in Venice, Italy, which also includes a historical 500m² wine yard inside. According to the unique architecture of the two cloisters area, we designed a two-part soundtrack for this exhibition event, in order to give a continue sense of the space for the guests to follow.
 
-![Saint Statue](church.jpg)
+![Saint Statue](/assets/works/taste-of-pinot/church.jpg)
 
 The two parts have the same duration of 6:32 minutes. The second part consist of a layered-up version of the first one, with more dynamics and rhythmic details. The transition between the two is continue and smooth for the audience, creating an extra sense of comfort and relaxing atmosphere.
 
-![Dreaming Effect](dream.jpg)
+![Dreaming Effect](/assets/works/taste-of-pinot/dream.jpg)
 
 ## Continuity of the space
 
 The two cloisters have their own function during the exhibition event: the first cloister serves as exhibition hall for 20 graphical installations, while the second serves as an aperitivo area for media guests and press. The external grass garden is finally used as lunch area.
 
-![Cloister picture](cloister.jpg)
+![Cloister picture](/assets/works/taste-of-pinot/cloister.jpg)
 
 After analysing the environment, we focused on the idea of letting the soundtrack itself to be the guide and connection between the whole exhibition space separated by a corridor between the two cloisters.
 
@@ -39,9 +39,9 @@ After analysing the environment, we focused on the idea of letting the soundtrac
 
 The two parts of the music piece are obtained as combination of layers. According to the actual position of the audience, different sounds being played can be heard. We set three speaker locations: the first layer is played at speaker locations no. 1 and no. 2, while, simultaneously, the second layer is played at speaker location no. 3.
 
-![Speakers map](speaker-map.jpg)
+![Speakers map](/assets/works/taste-of-pinot/speaker-map.jpg)
 
-![Picture of a speaker](speaker.jpg)
+![Picture of a speaker](/assets/works/taste-of-pinot/speaker.jpg)
 
 The obtained effect is that the audience in the exhibition cloister can hear the same music as soundtrack no. 1, while the audience staying in the aperitivo cloister can hear the soundtrack no. 2, which is the combination of the first and second layers being played simultaneously.
 
