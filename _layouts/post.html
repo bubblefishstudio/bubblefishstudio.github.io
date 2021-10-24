@@ -3,7 +3,7 @@
 	<article class="insight-post">
 		<h1>{{ page.title }}</h1>
 		{{ content }}
-		<date class="insight-date">{{ page.date | date_to_long_string }}</date>
+		<time datetime="{{ page.date | date: '%F' }}" class="insight-date">{{ page.date | date_to_long_string }}</time>
 	</article>
 </section>
 {% endcapture %}

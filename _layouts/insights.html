@@ -12,7 +12,7 @@
 			<ol>
 				{% for entry in year_docs.items %}
 					<li class="insight-entry">
-						<date class="insight-entry-date">{{ entry.date | date: "%m-%d" }}</date>
+						<time datetime="{{ entry.date | date: '%F' }}" class="insight-entry-date">{{ entry.date | date: "%m-%d" }}</time>
 						<a class="insight-entry-link" href="{{ entry.url }}">{{ entry.title }}</a>
 					</li>
 				{% endfor %}
