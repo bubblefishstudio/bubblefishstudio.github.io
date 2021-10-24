@@ -3,16 +3,17 @@
 
 {% capture main %}
 <section class="main-content insights">
-	<ol>
+	<ol class="insights-list">
 		{% for year_docs in insights_docs %}
-		<li>
+		<li class="insight-year-group">
 			<date class="insight-year">
 				{{ year_docs.name }}
 			</date>
 			<ol>
 				{% for entry in year_docs.items %}
 					<li class="insight-entry">
-						<a href="{{ entry.url }}">{{ entry.title }}</a>
+						<date class="insight-entry-date">{{ entry.date | date: "%m-%d" }}</date>
+						<a class="insight-entry-link" href="{{ entry.url }}">{{ entry.title }}</a>
 					</li>
 				{% endfor %}
 			</ol>
