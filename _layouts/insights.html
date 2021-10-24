@@ -9,7 +9,7 @@
 			<date class="insight-year">
 				{{ year_docs.name }}
 			</date>
-			<ol>
+			<ol class="insight-year-list">
 				{% for entry in year_docs.items %}
 					<li class="insight-entry">
 						<time datetime="{{ entry.date | date: '%F' }}" class="insight-entry-date">{{ entry.date | date: "%m-%d" }}</time>
