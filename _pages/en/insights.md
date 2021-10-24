@@ -1,8 +1,6 @@
 ---
 title: Insights
-enumerate: false
 order: 4
 nav-icon: fas fa-lightbulb
+layout: insights
 ---
-
-<b>Work in progress :)</b>

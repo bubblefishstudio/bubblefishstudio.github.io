@@ -1,0 +1,38 @@
+.insights {
+	font-size: 1.1em;
+}
+
+.insights-list, .insight-year-list {
+	list-style: none;
+	padding-left: 0;
+}
+
+.insights-list {
+	padding-left: 1em;
+	border-left: 3px solid #eee;
+}
+
+.insight-year {
+	font-weight: 700;
+	font-size: calc(1.325rem + 0.9vw);
+}
+
+.insight-year-list {
+	margin-top: 1em;
+}
+
+.insight-entry-date {
+	display: inline-block;
+	width: 5em;
+	font-size: 0.75em;
+	vertical-align: middle;
+}
+
+
+
+.insight-date {
+	display: block;
+	margin-top: 3em;
+	text-align: right;
+	font-style: italic;
+}
