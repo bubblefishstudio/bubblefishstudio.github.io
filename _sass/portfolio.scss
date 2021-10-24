@@ -41,9 +41,9 @@
 }
 
 .portfolio-entry-title, .portfolio-entry-desc {
-	text-shadow: 0 0 2px #333;
-	background-color: rgba(0,0,0,0.3);
-	backdrop-filter: blur(1px);
+	text-shadow: 0 0 2px #222;
+	background-color: rgba(0,0,0,0.5);
+	backdrop-filter: blur(2px);
 	position: absolute; left: 0; right: 0;
 	padding: 0.5em 1em;
 	margin: 0;
@@ -51,7 +51,7 @@
 }
 
 .portfolio-entry-title {
-	font-size: 1.25em;
+	font-size: 1.3em;
 	font-weight: 500;
 	color: #fff;
 	top: 0;
@@ -66,7 +66,7 @@
 
 .portfolio-entry-desc {
 	font-style: italic;
-	color: #efefef;
+	color: #fff;
 	bottom: 0;
 
 	&::before {
