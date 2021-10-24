@@ -6,7 +6,7 @@ tags:
   - Composition
   - Sound Design
 context: Final project of Music Production Technologies course @ Politecnico di Milano
-thumbnail: /works/san-pellegrino/lid.png
+thumbnail: /assets/works/san-pellegrino/lid.png
 date: 2021-01-18
 ---
 
