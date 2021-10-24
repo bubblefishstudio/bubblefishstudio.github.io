@@ -1,12 +1,12 @@
 ---
-title: San Pellegrino Soundtrack
+title: San Pellegrino
 summary: Sincronizzazione musicale e sonora non ufficiale per uno spot di San Pellegrino.
 link: https://vimeo.com/594625753
 tags:
   - Composizioni
   - Sound Design
 context: Progetto finale del corso Music Production Technologies @ Politecnico di Milano
-thumbnail: /assets/works/san-pellegrino/lid.png
+thumbnail: /assets/works/san-pellegrino/bottle.png
 date: 2021-01-18
 ---
 
