@@ -11,7 +11,7 @@ thumbnail: /assets/works/taste-of-pinot/vineyard.jpg
 date: 2021-06-20
 ---
 
-<iframe src="https://player.vimeo.com/video/591565838?h=37671d1c49&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+{% include vimeo.html src="https://player.vimeo.com/video/591565838?h=37671d1c49&title=0&byline=0&portrait=0" %}
 
 ## Introduzione
 

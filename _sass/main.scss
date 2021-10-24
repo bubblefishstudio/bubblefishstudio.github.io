@@ -82,15 +82,12 @@ body {
 .main-content {
 	text-align: justify;
 
-	iframe, p > img, p > svg {
+	p > img, p > svg {
 		display: block;
 		margin: auto;
 	}
 	img, svg {
 		max-width: 80%;
-	}
-	iframe {
-		margin-bottom: 1rem;
 	}
 }
 
@@ -109,5 +106,20 @@ blockquote {
 
 	& > :last-child {
 		margin-bottom: 0;
+	}
+}
+
+.vimeo-frame {
+	position: relative;
+	padding-top: 45.25%;
+	margin: 0 auto 1rem;
+	width: 80%;
+
+	& > iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
 }

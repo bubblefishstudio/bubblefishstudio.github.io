@@ -10,7 +10,7 @@ thumbnail: /assets/works/san-pellegrino/bottle.png
 date: 2021-01-18
 ---
 
-<iframe src="https://player.vimeo.com/video/594625753?h=72181c9f96&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+{% include vimeo.html src="https://player.vimeo.com/video/594625753?h=72181c9f96&title=0&byline=0&portrait=0" %}
 
 This project is an unofficial composition & sound design synchronization for the advertisement of the sparkling water brand "San Pellegrino". We've been provided with the mute video and we created from scratch the whole audio experience.
 
