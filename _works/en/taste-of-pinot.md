@@ -1,5 +1,5 @@
 ---
-title: Taste of Pinot
+title: Off The Skins
 summary: A site-specific sound design for a historical exhibition.
 link: https://vimeo.com/591565838
 tags:
@@ -7,7 +7,7 @@ tags:
   - Composition
   - Sound Design
 context: "Project made for the 60th anniversary of the Wine Brand: Santa Margherita Pinot Bianco, in collaboration with IoDeposito Ngo"
-thumbnail: /assets/works/taste-of-pinot/panels.png
+thumbnail: /assets/works/taste-of-pinot/vineyard.jpg
 date: 2021-06-20
 ---
 
