@@ -1,0 +1,25 @@
+{% assign insights_collection = site.collections | where: "label", "insights" | first %}
+{% assign insights_docs = insights_collection.docs | where: "lang", page.lang | sort: "date" | reverse | group_by_exp: "item", "item.date | split: '-' | first" %}
+
+{% capture main %}
+<section class="main-content insights">
+	<ol>
+		{% for year_docs in insights_docs %}
+		<li>
+			<date class="insight-year">
+				{{ year_docs.name }}
+			</date>
+			<ol>
+				{% for entry in year_docs.items %}
+					<li class="insight-entry">
+						<a href="{{ entry.url }}">{{ entry.title }}</a>
+					</li>
+				{% endfor %}
+			</ol>
+		</li>
+		{% endfor %}
+	</ol>
+</section>
+{% endcapture %}
+
+{% include layout1.html main=main lang=page.lang %}

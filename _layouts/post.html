@@ -1,0 +1,11 @@
+{% capture main %}
+<section class="main-content">
+	<article class="insight-post">
+		<h1>{{ page.title }}</h1>
+		{{ content }}
+		<date class="insight-date">{{ page.date | date_to_long_string }}</date>
+	</article>
+</section>
+{% endcapture %}
+
+{% include layout1.html main=main lang=page.lang %}

@@ -1,4 +1,7 @@
-## Concert night: about Pure Music
+---
+title: "Concert night: about Pure Music"
+date: 2021-10-17
+---
 
 Today, we went to Teatro alla Scala to enjoy a concert ORCHESTRA SINFONICA NAZIONALE DELLA RAI.
 
@@ -6,11 +9,9 @@ I didn't check the concert information carefully before this night, but just as 
 
 There were no rhythms, no solid notes, you just heard music and sound as grey clouds full of mists and inscrutable trills as if the clouds were shifting, witty, unsettling, you heard these incredible emotions. It was a wonderful contrast of sorts that the theatre is of traditional indoor decorations, like red curtains and warm white crystal lights from above, along with most of the audience in fine formal dress. 
 
- The sound of strings and bows waving, the discordant drums, the sound of orchestral mouthpieces, the sound of cloth tearing. Musical sounds have shapes, but they have been compressed and stretched into shapes you don't recognize. Everything is interspersed with yet many new sounds that you can't distinguish.
+The sound of strings and bows waving, the discordant drums, the sound of orchestral mouthpieces, the sound of cloth tearing. Musical sounds have shapes, but they have been compressed and stretched into shapes you don't recognize. Everything is interspersed with yet many new sounds that you can't distinguish.
 
 The composer's imagination makes this sound materialize, creating a force field that hangs over the theatre. I ask myself more questions under this mysterious mood: What is the exact difference between one sound and another? What is the need for structure and form? What is the relation between the audience and the composer? After the show, the moon was very beautiful and I was still lost in the music for a long time. This is the kind of moment I really love Italy.
-
-2021.10.17
 
 ---
 * Plus:  List of Music on Oct 17th, [Teatro alla Scala](https://www.teatroallascala.org/it/stagione/2020-2021/concerti/ospitalita-istituzioni-musicali-italiane/orchestra-sinfonica-nazionale-rai-17-ottobre.html)

@@ -10,6 +10,8 @@ collections:
     output: true
   pages:
     output: true
+  insights:
+    output: true
 
 defaults:
   - # english versions (default)
@@ -44,4 +46,18 @@ defaults:
       path: "_works/it/*"
     values:
       permalink: "/it/:collection/:name"
+      lang: "it"
+
+  -
+    scope:
+      type: "insights"
+    values:
+      layout: "post"
+      permalink: "/en/:year/:month/:day/:name"
+  - # italian insights
+    scope:
+      type: "insights"
+      path: "_insights/it/*"
+    values:
+      permalink: "/it/:year/:month/:day/:name"
       lang: "it"
