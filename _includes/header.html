@@ -29,5 +29,11 @@
 				{{link.name}}
 			</a>
 		{% endfor %}
+
+		{% if page.lang == "en" %}
+			<a class="lang-switch nav-link" href="{{ page.url | replace_first: 'en/', 'it/' }}">ITA</a>
+		{% else %}
+			<a class="lang-switch nav-link" href="{{ page.url | replace_first: 'it/', 'en/' }}">ENG</a>
+		{% endif %}
 	</div>
 </nav>
