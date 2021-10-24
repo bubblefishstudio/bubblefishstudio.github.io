@@ -7,7 +7,7 @@ tags:
   - 3D graphics
   - Programming
 context: Final project of Creative Programming and Computing course @ Politecnico di Milano
-thumbnail: /works/alphaxmas/final-tree.png
+thumbnail: /assets/works/alphaxmas/final-tree.png
 date: 2021-09-01
 ---
 

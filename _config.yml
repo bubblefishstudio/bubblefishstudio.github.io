@@ -1,5 +1,4 @@
 title: BubbleFishStudio
-locale: en_US
 baseurl: ""
 url: "https://bubblefish.studio"
 repository: "bubblefishstudio/bubblefishstudio.github.io"
@@ -13,17 +12,36 @@ collections:
     output: true
 
 defaults:
+  - # english versions (default)
+    scope:
+      path: ""
+    values:
+      lang: "en"
+
   -
     scope:
-      path: "_works/*/*.md"
+      type: "pages"
+      path: "_pages/*"
+    values:
+      layout: "page"
+      permalink: ":path"
+  - # italian pages
+    scope:
+      type: "pages"
+      path: "_pages/it/*"
+    values:
+      lang: "it"
+
+  -
+    scope:
       type: "works"
     values:
-      permalink: ":collection/:name/"
       layout: "project"
-  -
+      permalink: "/en/:collection/:name"
+  - # italian projects
     scope:
-      path: "_pages/*"
-      type: "pages"
+      type: "works"
+      path: "_works/it/*"
     values:
-      permalink: ":name"
-      layout: "page"
+      permalink: "/it/:collection/:name"
+      lang: "it"
