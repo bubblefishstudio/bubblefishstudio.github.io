@@ -16,6 +16,7 @@ defaults:
     scope:
       path: ""
     values:
+      layout: "default"
       lang: "en"
 
   -
@@ -23,7 +24,6 @@ defaults:
       type: "pages"
       path: "_pages/*"
     values:
-      layout: "page"
       permalink: ":path"
   - # italian pages
     scope:
