@@ -1,6 +1,7 @@
 ---
 title: About
 nav-icon: fa fa-compass
+order: 2
 ---
 
 About Us

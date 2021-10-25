@@ -1,6 +1,7 @@
 ---
 title: Chi Siamo
 nav-icon: fa fa-compass
+order: 2
 ---
 
 Chi siamo

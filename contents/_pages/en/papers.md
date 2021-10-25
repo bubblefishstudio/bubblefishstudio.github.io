@@ -1,6 +1,7 @@
 ---
 title: Reports
 nav-icon: fas fa-file-alt
+order: 3
 ---
 
 Reports
