@@ -2,7 +2,7 @@
 {% assign works_docs = works_collection.docs | where: "lang", page.lang | sort: "date" | reverse %}
 
 {% capture main %}
-<section class="main-content portfolio">
+<main class="main-content portfolio">
 	{% for entry in works_docs %}
 	<article class="portfolio-entry">
 		<div class="portfolio-entry-preview">
@@ -22,7 +22,7 @@
 		</div>
 	</article>
 	{% endfor %}
-</section>
+</main>
 {% endcapture %}
 
 {% include layout1.html main=main lang=page.lang %}

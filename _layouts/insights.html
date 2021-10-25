@@ -2,7 +2,7 @@
 {% assign insights_docs = insights_collection.docs | where: "lang", page.lang | sort: "date" | reverse | group_by_exp: "item", "item.date | split: '-' | first" %}
 
 {% capture main %}
-<section class="main-content insights">
+<main class="main-content insights">
 	<ol class="insights-list">
 		{% for year_docs in insights_docs %}
 		<li class="insight-year-group">
@@ -20,7 +20,7 @@
 		</li>
 		{% endfor %}
 	</ol>
-</section>
+</main>
 {% endcapture %}
 
 {% include layout1.html main=main lang=page.lang %}
