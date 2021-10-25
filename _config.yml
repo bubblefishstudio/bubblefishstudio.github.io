@@ -4,6 +4,7 @@ url: "https://bubblefish.studio"
 repository: "bubblefishstudio/bubblefishstudio.github.io"
 sass.style: compressed
 future: true
+collections_dir: contents
 
 collections:
   works:
@@ -24,13 +25,13 @@ defaults:
   -
     scope:
       type: "pages"
-      path: "_pages/*"
+      path: "contents/_pages/*"
     values:
       permalink: ":path"
   - # italian pages
     scope:
       type: "pages"
-      path: "_pages/it/*"
+      path: "contents/_pages/it/*"
     values:
       lang: "it"
 
@@ -43,7 +44,7 @@ defaults:
   - # italian projects
     scope:
       type: "works"
-      path: "_works/it/*"
+      path: "contents/_works/it/*"
     values:
       permalink: "/it/:collection/:name"
       lang: "it"
@@ -57,7 +58,7 @@ defaults:
   - # italian insights
     scope:
       type: "insights"
-      path: "_insights/it/*"
+      path: "contents/_insights/it/*"
     values:
       permalink: "/it/:year/:month/:day/:name"
       lang: "it"
