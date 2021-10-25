@@ -30,9 +30,13 @@
 	}
 }
 
-@media screen and (max-width: 32.5rem) {
+@media screen and (max-width: 42rem) {
 	.brand {
 		font-size: 1rem;
+		margin-right: 0;
+		.nav-link {
+			padding: 0.5rem;
+		}
 	}
 
 	.main-content {
@@ -47,17 +51,11 @@
 	}
 }
 
-@media screen and (max-width: 25rem) {
+@media screen and (max-width: 29rem) {
 	.main-bar, .footline {
 		padding: 0 0.6em;
 	}
 	.main-content {
 		padding: 2em 0.5em;
-	}
-	.brand {
-		margin-right: 0;
-		.nav-link {
-			padding: 0.5rem;
-		}
 	}
 }
