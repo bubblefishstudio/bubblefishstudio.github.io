@@ -1,29 +1,25 @@
 body {
 	display: flex;
-	flex-direction: column;
+	flex-flow: column nowrap;
+	align-items: center;
+	align-content: stretch;
 	min-height: 100vh;
-	min-width: 320px;
+	min-width: 310px;
 }
 
 .main-header, .main-footer {
 	background-color: #eee;
+	width: 100%;
 }
 
-.main-bar, .main-content, .footline {
-	max-width: 1000px;
-	margin: auto;
-	padding: 0 2em;
-}
-
-.main-header {
-	padding: 0.5em 0;
+.main-bar, .footline {
+	margin: 0 2em;
 }
 
 .main-content {
 	flex-grow: 1;
-	overflow: hidden;
-	padding: 2em;
-	width: 100%;
+	margin: 2em;
+	max-width: 960px;
 }
 
 .main-footer {
@@ -61,6 +57,7 @@ body {
 
 .brand .nav-link {
 	padding-left: 0;
+	padding-right: 0;
 }
 .brand-logo {
 	height: 1.4em;
