@@ -45,6 +45,8 @@ The two parts of the music piece are obtained as combination of layers. Accordin
 
 The obtained effect is that the audience in the exhibition cloister can hear the same music as soundtrack no. 1, while the audience staying in the aperitivo cloister can hear the soundtrack no. 2, which is the combination of the first and second layers being played simultaneously.
 
+<div style="margin-bottom:1rem;text-align:center;"><iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/taste-of-pinot-single/1575874215?l=en"></iframe></div>
+
 We composed this music and sound design to let the audience hear the source of the music. Feeling the joint atmosphere created by the architectural space, graphical installations and music, they will automatically follow the direction of the music source, walking towards the right direction from the entrance to the exit corridor and then continue to the aperitivo area in the second cloister.
 
 Finally, according to the site reverberation, noise and acoustic conditions, we prepared a suitable mixing for these tracks and used them during the exhibition period in June, 2021.

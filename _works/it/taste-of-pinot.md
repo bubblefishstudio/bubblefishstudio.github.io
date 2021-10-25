@@ -45,6 +45,8 @@ Le due parti del sottofondo musicale si ottengono come combinazione di livelli. 
 
 L'effetto che si viene ad ottenere è che i visitatori che si trovano nella zona espositiva ascolteranno l'audio della soundtrack n° 1, mentre i visitatori nella zona aperitivo ascolteranno la soundtrack n° 2, che è ottenuta come combinazione tra il primo livello ed il secondo livello, riprodotti all'unisono.
 
+<div style="margin-bottom:1rem;text-align:center;"><iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/taste-of-pinot-single/1575874215?l=it"></iframe></div>
+
 Abbiamo realizzato la musica e il sound design in modo che i visitatori potessero individuare la sorgente sonora. Percependo l'atmosfera che si crea tra lo spazio architettonico, le installazioni grafiche e la musica, essi percorreranno la mostra automaticamente nel verso giusto, dall'entrata al passaggio verso la zona aperitivo nel secondo chiostro.
 
 Infine, in base alle condizione acustiche del sito, abbiamo preparato un opportuno mix delle due tracce da utilizzare durante il periodo espositivo a giugno 2021.
