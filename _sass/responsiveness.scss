@@ -1,4 +1,4 @@
-@media screen and (max-width: 56.25rem) {
+@media screen and (max-width: 57rem) {
 	.main-bar {
 		flex-wrap: wrap;
 
@@ -33,5 +33,28 @@
 @media screen and (max-width: 32.5rem) {
 	.brand {
 		font-size: 1rem;
+	}
+
+	.main-content {
+		img, svg {
+			max-width: 100%;
+		}
+	}
+
+	.vimeo-frame {
+		width: 100%;
+		padding-top: 56.25%;
+	}
+}
+
+@media screen and (max-width: 25rem) {
+	.main-bar, .footline {
+		padding: 0 0.6em;
+	}
+	.main-content {
+		padding: 2em 0.5em;
+	}
+	.brand {
+		margin-right: 0;
 	}
 }
