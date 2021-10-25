@@ -2,7 +2,6 @@ body {
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: center;
-	align-content: stretch;
 	min-height: 100vh;
 	min-width: 310px;
 }
@@ -20,7 +19,7 @@ body {
 	flex-grow: 1;
 	margin: 2em;
 	max-width: 960px;
-	width: 100%;
+	width: calc(100% - 2em);
 }
 
 .main-footer {
