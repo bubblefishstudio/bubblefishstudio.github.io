@@ -11,6 +11,8 @@ thumbnail: /assets/works/alphaxmas/final-tree.png
 date: 2021-09-01
 ---
 
+{% include vimeo.html src="https://player.vimeo.com/video/639264439?h=57541772c8&title=0&byline=0&portrait=0" %}
+
 AlphaXmas è un'installazione web che rientra nell'ambito delle *Arti Generative*. L'esperienza fornita è di poter osservare la crescita di un albero natalizio generato al momento, accompagnato da una melodia natalizia anch'essa generata. Così come in qualsiasi altro albero natalizio che si rispetti, vengono aggiunte anche delle luci che lampeggiano a tempo di musica.
 
 Ogni volta che la pagina web viene ricaricata, vengono generati un albero e una melodia unici: a volte potrebbe apparire una stella in cima all'albero una volta che questo ha smesso di crescere. Non solo, lo spettatore può osservare l'albero da più angolazioni semplicemente muovendo la testa, ottenendo un'impressione tridimensionale dell'installazione.

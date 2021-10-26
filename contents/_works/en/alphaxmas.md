@@ -11,6 +11,8 @@ thumbnail: /assets/works/alphaxmas/final-tree.png
 date: 2021-09-01
 ---
 
+{% include vimeo.html src="https://player.vimeo.com/video/639264439?h=57541772c8&title=0&byline=0&portrait=0" %}
+
 AlphaXmas is a Web Installation in the field of *Computer Generated Art*, providing an experience of a growing Christmas tree and a generated Christmas melody playing in the background. As any respectable Christmas tree, light decorations are added and they blink at the tempo of music. 
 
 Each time the webpage is loaded, a unique tree and melody are generated: occasionally, a star on top of the tree might appear once it stops growing. Additionally, the user can observe the tree from different angles by simply moving their head, giving a 3D feeling to the installation.
