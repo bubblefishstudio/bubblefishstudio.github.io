@@ -1,5 +1,8 @@
 # Provide extra links in this file
 
+- url: https://instagram.com/bubblefishstudio
+  icon: fab fa-instagram
+  external: true
 - url: https://github.com/bubblefishstudio
   icon: fab fa-github
   external: true
