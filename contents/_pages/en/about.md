@@ -26,4 +26,4 @@ Contact us [info@bubblefish.studio](mailto:info@bubblefish.studio) for more info
 
 Art and engineering are one and the same. We want to design beautiful music and sounds to suit different environments and needs, and this work requires outstanding technical and engineering skills to make it happen. Computer science, graphics, digital signal processing and audio technology will help us bring our imagination to life and make the end result interesting and rewarding.
 
-It is fitting that the members of this studio, Yilin and Matteo, are both pursuing MSc degrees of Music Engineering in Politecnico di Milano.
+It is fitting that the members of this studio, [Yilin](https://instagram.com/yilinzhu0) and [Matteo](https://teobe.net), are both pursuing MSc degrees of Music Engineering in Politecnico di Milano.

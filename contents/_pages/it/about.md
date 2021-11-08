@@ -26,4 +26,4 @@ Per saperne di più e lavorare con noi: [info@bubblefish.studio](mailto:info@bub
 
 L'arte e l'ingegneria sono due facce della stessa medaglia. I suoni e le melodie devono essere belli ma anche adattarsi ai vari requisiti ambientali, pertanto sono necessarie ampie conoscenze tecniche ed ingegneristiche per realizzare questi progetti. Le conoscenze di informatica, grafica, manipolazione dei segnali e tecnologie audio ci permetteranno di concretizzare la nostra immaginazione e far in modo che il prodotto finale sia interessante e gratificante.
 
-A tal proposito, è sicuramente vantaggioso che i membri di questo studio, Yilin e Matteo, sono studenti presso la laurea magistrale in Ingegneria Musicale al Politecnico di Milano.
+A tal proposito, è sicuramente vantaggioso che i membri di questo studio, [Yilin](https://instagram.com/yilinzhu0) e [Matteo](https://teobe.net), siano studenti presso la laurea magistrale in Ingegneria Musicale al Politecnico di Milano.
