@@ -1,6 +1,7 @@
 ---
 title: Recording Session
 date: 2021-10-22
+author: Yilin
 ---
 
 We recorded with a singer Jia Yan yesterday, and it was a very interesting process.

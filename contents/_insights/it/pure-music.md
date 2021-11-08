@@ -1,6 +1,7 @@
 ---
 title: "Concerto notturno: la purezza della musica"
 date: 2021-10-17
+author: Yilin
 ---
 
 Siamo andati al Teatro alla Scala per assistere ad un concerto, eseguito dall'Orchestra Sinfonica Nazionale della RAI.

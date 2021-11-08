@@ -1,9 +1,10 @@
 ---
 title: Sessione di registrazione
 date: 2021-10-22
+author: Yilin
 ---
 
-Ieri abbiamo registrato un brano con il cantante Jia Yan ed è stato un processo molto interessante.
+Ieri abbiamo registrato un brano con il cantante JiaYan ed è stato un processo molto interessante.
 
 Dopo tre ore abbiamo registrato dieci tracce, ottenendo un risultato soddisfacente. Anche se era la prima volta che lavoravamo insieme, abbiamo avuto una comunicazione fluida durante la fase di composizione e pianificazione, JiaYan ha colto il significato della musica in termini di melodia e testo.
 
