@@ -52,8 +52,8 @@ We composed this music and sound design to let the audience hear the source of t
 Finally, according to the site reverberation, noise and acoustic conditions, we prepared a suitable mixing for these tracks and used them during the exhibition period in June, 2021.
 
 ## News and Links
-1. Official site of the [Exhibition](https://pinotgrigio.santamargherita.com/en/off-the-skins-en#section-id-1623055062421)
-2. Press report from [Winenews](https://radiobottiglia.com/off-the-skins-la-mostra-in-onore-del-pinot-grigio/)
+- [Official website of the Exhibition](https://pinotgrigio.santamargherita.com/en/off-the-skins-en#section-id-1623055062421)
+- [Press report from Winenews](https://radiobottiglia.com/off-the-skins-la-mostra-in-onore-del-pinot-grigio/)
 
 ---
 - Exhibition Time: *June 25th to July 5th, 2021*

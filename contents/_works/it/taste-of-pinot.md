@@ -51,6 +51,10 @@ Abbiamo realizzato la musica e il sound design in modo che i visitatori potesser
 
 Infine, in base alle condizione acustiche del sito, abbiamo preparato un opportuno mix delle due tracce da utilizzare durante il periodo espositivo a giugno 2021.
 
+## News e link
+- [Sito ufficiale della mostra](https://pinotgrigio.santamargherita.com/off-the-skins#section-id-1623055062421)
+- [Articolo di Winenews](https://radiobottiglia.com/off-the-skins-la-mostra-in-onore-del-pinot-grigio/)
+
 ---
 - Periodo espositivo: *dal 23 al 29 giugno 2021*
 - Località: *Venezia, Italia*
