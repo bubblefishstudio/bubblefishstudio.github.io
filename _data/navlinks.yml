@@ -3,6 +3,9 @@
 - url: https://instagram.com/bubblefishstudio
   icon: fab fa-instagram
   external: true
+- url: https://twitter.com/bubblefishmusic
+  icon: fab fa-twitter
+  external: true
 - url: https://github.com/bubblefishstudio
   icon: fab fa-github
   external: true
