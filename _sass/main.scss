@@ -83,11 +83,11 @@ body {
 .main-content {
 	text-align: justify;
 
-	p > img, p > svg {
+	p > img, p > svg, .figure {
 		display: block;
 		margin: auto;
 	}
-	img, svg {
+	img, svg, .figure {
 		max-width: 80%;
 	}
 }
