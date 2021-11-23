@@ -8,7 +8,8 @@
 		<div class="portfolio-entry-preview">
 			<a href="{{ entry.url }}">
 				<h2 class="portfolio-entry-title">{{ entry.title }}</h2>
-				<img src="{{ entry.thumbnail }}" class="portfolio-entry-thumbnail" alt="thumbnail">
+				<img src="{{ entry.thumbnail }}" class="portfolio-entry-thumbnail" alt="thumbnail"
+					{% if entry.thumb_position %}style="object-position: {{ entry.thumb_position }}"{% endif %}>
 				<p class="portfolio-entry-desc">{{ entry.summary }}</p>
 			</a>
 		</div>
