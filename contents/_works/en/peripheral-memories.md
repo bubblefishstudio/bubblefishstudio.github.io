@@ -31,7 +31,7 @@ The style of the compositions is ambient and experimental. Several real samples 
 
 <div style="margin-bottom:1rem;text-align:center;"><iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/the-invisible-museum-ep/1564523929?l=en"></iframe></div>
 
-{% include gif.html src="/assets/works/peripheral-memories/enter_museum.mov" poster="/assets/works/peripheral-memories/enter_museum.jpg" alt="entering the building" %}
+{% include gif.html src="/assets/works/peripheral-memories/enter_museum.mov" poster="/assets/works/peripheral-memories/enter_museum.jpg" alt="Entering the building" %}
 
 The placement of the installation has the purpose to attract visitors from outside the building and create a non-obstrusive atmosphere for visitors inside the building.
 
