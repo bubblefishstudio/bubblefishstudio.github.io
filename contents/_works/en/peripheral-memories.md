@@ -13,13 +13,9 @@ date: 2021-11-13
 ---
 
 
-We like to do all sorts of interesting projects, but this is the first sound art project to be exhibited in a museum, Trieste, Nov.13 - 28, 2021.
+We like to do all sorts of interesting projects, but this is the first sound art project to be exhibited in a museum, Trieste, Nov.13 - 28, 2021. History passed down from generation to generation and does not dissipate, and even as the smoke of war drifts across this border land, the memories of the people remain.
 
-Yilin have produced 4 musical pieces for this exhibition, each focusing on the historical and cultural heritage of the region: the naval industry, coffee industry, textile industry and mining industry.
-
-History is a song that is passed down from generation to generation and does not dissipate, and even as the smoke of war drifts across this border land, the memories of the people remain.
-
-The style of the compositions is ambient and experimental. Several real samples were recorded (ship engine, coffee beans, birds, sewing machine, etc.) and combined with other music elements.
+Yilin have produced 4 musical pieces for this exhibition, each focusing on the historical and cultural heritage of the region: the naval industry, coffee industry, textile industry and mining industry. The style of the compositions is ambient and experimental. Several real samples were recorded (ship engine, coffee beans, birds, sewing machine, etc.) and combined with other music elements.
 
 You can listen to the work here:
 
