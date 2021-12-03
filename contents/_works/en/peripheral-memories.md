@@ -33,7 +33,9 @@ The exhibition revolves around the concept of cultural heritage of the region Fr
 ## At Site
 
 ![External view of the entrance to the exhibition](/assets/works/peripheral-memories/building.png)
+
 ![Entrance view of the exhibition](/assets/works/peripheral-memories/inside.png)
+
 ![Caption card for Yilin's installation](/assets/works/peripheral-memories/card.png)
 
 The placement of the installation has the purpose to attract visitors from outside the building and create a non-obstrusive atmosphere for visitors inside the building.
