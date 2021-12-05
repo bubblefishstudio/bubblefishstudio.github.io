@@ -10,6 +10,7 @@ context: "Project installed in Citta Studi, Milano, Dec 2021"
 thumbnail: /assets/works/treeathlon/project.png
 thumb_position: center left
 date: 2021-12-02
+enumerate: false
 ---
 
 Once November has passed, Christmas gets closer and closer. The lights go up in the streets, twinkling in all sorts of colours as night falls, reflecting on the masked faces of passers-by. Even when the north wind blows with the coldness of snow and ice, you still feel a fairy-tale sense of peace and joy.
@@ -22,6 +23,7 @@ For this Christmas tree competition we participated for, we used a tree provided
 The installation was inspired by the cold winds of the Christmas season and we wanted to give the viewer an aesthetically pleasing experience of a cold winter's day. At the same time, we wanted to reflect the harmony between the natural landscape and human festivity: the ribbon decorations hanging from the branches and trunks of the trees were made by our hand using recycled materials; we also minimised damage to the trees during the installation process. So, the main decorations we put on the tree are the lights, the stripes and a water-proof speaker with a SD card to play the soundtrack we made.
 
 ![work 1](/assets/works/treeathlon/work.jpg)
+
 ![work 2](/assets/works/treeathlon/work2.jpg)
 
 ## Background
