@@ -14,7 +14,7 @@ date: 2021-11-13
 
 ![External view of the entrance to the exhibition](/assets/works/peripheral-memories/building.jpg)
 
-We like to do all sorts of interesting projects, but this is the first sound art project to be exhibited in a museum (Trieste, Nov. 13th to 28th, 2021). History passes down from generation to generation and does not dissipate, and even though the smoke of war drifts away from this border land, the memories of the people remain.
+Among the projects we made so far, this is the first sound art project to be exhibited in a museum (Trieste, Nov. 13th to 28th, 2021). History passes down from generation to generation and does not dissipate, and even though the smoke of war drifts away from this border land, the memories of the people remain.
 
 Yilin produced four musical pieces for this exhibition, each focusing on the historical and cultural heritage of the region: the naval industry, coffee industry, textile industry and mining industry. The style of the compositions is ambient and experimental. Several real samples were recorded (ship engine, coffee beans, birds, sewing machine, etc.) and combined with other music elements.
 
@@ -24,13 +24,15 @@ You can listen to the work here:
 
 ## Background
 
-The exhibition features artworks from international artists who, after a stay in the area of Udine, Monfalcone and Trieste, cooperated with the local realities and gathered material and inspiration for their works. 
-
 The exhibition revolves around the concept of cultural heritage of the region Friuli-Venezia Giulia in Italy, especially after World War II. People living in the balkanic borders of the Italian territory always had a complex relation between their own values and rulers' policies that succeeded throughout history. The B#Side project focuses on the de-industralization effects caused by the end of WW2, after the area has been exploited for military purposes (siderurgic production for weapons and ships, textile for military uniforms and coats, etc).
+
+In particular, the exhibition focuses on four production sectors: Naval, Coffee, Textile and Mining. These are the main areas in which people of the region are historically good at, and which were exploited during the war period.
+
+The featured artworks are made by international artists who, after a stay in the area of Udine, Monfalcone and Trieste, cooperated with the local realities and gathered material and inspiration for their works. 
 
 ## At Site
 
-The placement of the installation has the purpose to attract visitors from outside the building and create a non-obstrusive atmosphere for visitors inside the building.
+The placement of Yilin's installation has the purpose to attract visitors from outside the building and create a non-obstrusive atmosphere for visitors inside the building.
 
 {% include gif.html src="/assets/works/peripheral-memories/enter_museum.mov" poster="/assets/works/peripheral-memories/enter_museum.jpg" alt="Entering the building" %}
 
