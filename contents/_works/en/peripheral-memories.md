@@ -6,23 +6,21 @@ tags:
   - Composition
   - Installation
   - Sound Art
-context: "Project included in exhibition B#Side Peripheral Memories with IoDeposito Ngo"
+context: "Installation included in exhibition B#Side Peripheral Memories by IoDeposito Ngo"
 thumbnail: /assets/works/peripheral-memories/inside.png
 thumb_position: center left
 date: 2021-11-13
 ---
 
+![External view of the entrance to the exhibition](/assets/works/peripheral-memories/building.png)
 
-We like to do all sorts of interesting projects, but this is the first sound art project to be exhibited in a museum, Trieste, Nov.13 - 28, 2021. History passed down from generation to generation and does not dissipate, and even as the smoke of war drifts across this border land, the memories of the people remain.
+We like to do all sorts of interesting projects, but this is the first sound art project to be exhibited in a museum (Trieste, Nov. 13th to 28th, 2021). History passes down from generation to generation and does not dissipate, and even though the smoke of war drifts away from this border land, the memories of the people remain.
 
-Yilin have produced 4 musical pieces for this exhibition, each focusing on the historical and cultural heritage of the region: the naval industry, coffee industry, textile industry and mining industry. The style of the compositions is ambient and experimental. Several real samples were recorded (ship engine, coffee beans, birds, sewing machine, etc.) and combined with other music elements.
+Yilin produced four musical pieces for this exhibition, each focusing on the historical and cultural heritage of the region: the naval industry, coffee industry, textile industry and mining industry. The style of the compositions is ambient and experimental. Several real samples were recorded (ship engine, coffee beans, birds, sewing machine, etc.) and combined with other music elements.
 
 You can listen to the work here:
 
 <div style="margin-bottom:1rem;text-align:center;"><iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/it/album/the-invisible-museum-ep/1564523929?l=en"></iframe></div>
-
-{% include gif.html src="/assets/works/peripheral-memories/enter_museum.mov" poster="/assets/works/peripheral-memories/enter_museum.jpg" alt="Entering the building" %}
-
 
 ## Background
 
@@ -32,17 +30,15 @@ The exhibition revolves around the concept of cultural heritage of the region Fr
 
 ## At Site
 
-![External view of the entrance to the exhibition](/assets/works/peripheral-memories/building.png)
-
-![Entrance view of the exhibition](/assets/works/peripheral-memories/inside.png)
-
-![Caption card for Yilin's installation](/assets/works/peripheral-memories/card.png)
-
 The placement of the installation has the purpose to attract visitors from outside the building and create a non-obstrusive atmosphere for visitors inside the building.
 
-![Mixing on computer](/assets/works/peripheral-memories/mixing.png)
+{% include gif.html src="/assets/works/peripheral-memories/enter_museum.mov" poster="/assets/works/peripheral-memories/enter_museum.jpg" alt="Entering the building" %}
+
+![Entrance view of the exhibition and Yilin's caption card](/assets/works/peripheral-memories/inside_card.png)
 
 A specific on-site mixing and mastering has been done to make the soundtracks fit with the acoustics of the environment. In particular, low frequencies were cut to avoid rumbling and resonances, every track has been compressed to achieve comparable LUFS levels and dynamic range, in order to create a uniform experience across the tracks.
+
+![Mixing on computer](/assets/works/peripheral-memories/mixing.png)
 
 ---
 - Exhibition Time: *November 13th to 28th, 2021*
