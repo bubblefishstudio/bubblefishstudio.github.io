@@ -7,12 +7,12 @@ tags:
   - Installation
   - Sound Art
 context: "Installation included in exhibition B#Side Peripheral Memories by IoDeposito Ngo"
-thumbnail: /assets/works/peripheral-memories/inside.png
+thumbnail: /assets/works/peripheral-memories/inside.jpg
 thumb_position: center left
 date: 2021-11-13
 ---
 
-![External view of the entrance to the exhibition](/assets/works/peripheral-memories/building.png)
+![External view of the entrance to the exhibition](/assets/works/peripheral-memories/building.jpg)
 
 We like to do all sorts of interesting projects, but this is the first sound art project to be exhibited in a museum (Trieste, Nov. 13th to 28th, 2021). History passes down from generation to generation and does not dissipate, and even though the smoke of war drifts away from this border land, the memories of the people remain.
 
@@ -34,11 +34,11 @@ The placement of the installation has the purpose to attract visitors from outsi
 
 {% include gif.html src="/assets/works/peripheral-memories/enter_museum.mov" poster="/assets/works/peripheral-memories/enter_museum.jpg" alt="Entering the building" %}
 
-![Entrance view of the exhibition and Yilin's caption card](/assets/works/peripheral-memories/inside_card.png)
+![Entrance view of the exhibition and Yilin's caption card](/assets/works/peripheral-memories/inside_card.jpg)
 
 A specific on-site mixing and mastering has been done to make the soundtracks fit with the acoustics of the environment. In particular, low frequencies were cut to avoid rumbling and resonances, every track has been compressed to achieve comparable LUFS levels and dynamic range, in order to create a uniform experience across the tracks.
 
-![Mixing on computer](/assets/works/peripheral-memories/mixing.png)
+![Mixing on computer](/assets/works/peripheral-memories/mixing.jpg)
 
 ---
 - Exhibition Time: *November 13th to 28th, 2021*
