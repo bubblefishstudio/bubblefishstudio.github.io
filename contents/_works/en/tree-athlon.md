@@ -15,9 +15,7 @@ Once November has passed, Christmas gets closer and closer. The lights go up in 
 
 *Everyone loves Christmas.*
 
-For this Christmas tree competition we participated in, we used a tree provided by Politecnico di Milano, transforming it into a unique installation designed by us: original sound design and decorations.
-
-The installation was inspired by the cold winds of the Christmas season and we wanted to give to the viewer an aesthetically pleasing experience of a cold winter's day. At the same time, we wanted to reflect the harmony between the natural landscape and human festivity: the ribbon decorations hanging from the branches and trunks of the trees were made by our hands using recycled materials; we also minimized damage to the trees during the installation process.
+For this Christmas tree competition we participated in, we used a tree provided by Politecnico di Milano, transforming it into a unique installation designed by us: original sound design and decorations. The installation was inspired by the cold winds of the Christmas season and we wanted to give to the viewer an aesthetically pleasing experience of a cold winter's day. At the same time, we wanted to reflect the harmony between the natural landscape and human festivity: the ribbon decorations hanging from the branches and trunks of the trees were made by our hands using recycled materials; we also minimized damage to the trees during the installation process.
 
 The main decorations we put on the tree are the lights, the stripes and a water-proof speaker with an SD card to play the soundtrack we made.
 
