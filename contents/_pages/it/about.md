@@ -7,7 +7,7 @@ order: 2
 Chi siamo
 =========
 
-> Bubble Fish Studio è uno studio musicale multidisciplinare.
+> BubbleFish Studio è uno studio musicale multidisciplinare.
 
 Siamo focalizzati nella creazione di musica applicata e sound design per cortometraggi, esibizioni in musei, installazioni artistiche, spazi interni ed esterni.
 Il nostro obiettivo è quello di realizzare lavori eleganti, puri e belli, sviluppando e supportando quei progetti che intendono propagare la conoscenza, la cultura oppure esprimere sentimenti umani ed emozioni.
