@@ -2,7 +2,7 @@
 	.main-bar {
 		flex-wrap: wrap;
 
-		.navbar-toggler {
+		.main-bar-toggler-button {
 			display: block;
 		}
 
@@ -11,6 +11,10 @@
 			margin-left: 0;
 			padding-left: 0.5rem;
 		}
+	}
+
+	.main-bar-quote {
+		order: 3;
 	}
 
 	.main-bar-links.main-bar-links {
