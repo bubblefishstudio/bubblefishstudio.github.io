@@ -1,31 +1,32 @@
 body {
 	display: flex;
 	flex-flow: column nowrap;
-	align-items: center;
+	align-items: stretch;
 	min-height: 100vh;
 	min-width: 310px;
 }
 
 .main-header, .main-footer {
 	background-color: #eee;
-	width: 100%;
-}
-
-.main-bar, .footline {
-	margin: 0 2em;
+	padding: 0 2em;
 }
 
 .main-content {
 	flex-grow: 1;
-	margin: 2em;
+	padding: 2em;
+}
+
+.main-bar, .footline, .content {
+	margin: auto;
+}
+
+.content {
 	max-width: 960px;
-	width: calc(100% - 4em);
 }
 
 
 // == MAIN BAR ==
 .main-bar {
-	max-width: none;
 	justify-content: space-between;
 	flex-wrap: wrap;
 
@@ -107,7 +108,6 @@ body {
 .footline {
 	max-width: 960px;
 	padding: 1.5em 0;
-	margin: auto;
 	display: flex;
 	flex-flow: row wrap;
 	align-items: center;

@@ -2,7 +2,7 @@
 {% assign works_docs = works_collection.docs | where_exp: "item", "item.enumerate != false" | where: "lang", page.lang | sort: "date" | reverse %}
 
 {% capture main %}
-<main class="main-content portfolio-page">
+<main class="content portfolio-page">
 	<div class="portfolio-intro">
 		{{ content }}
 		<div class="tilde"></div>
