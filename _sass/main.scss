@@ -22,10 +22,6 @@ body {
 	width: calc(100% - 4em);
 }
 
-.main-footer {
-	padding: 2em;
-}
-
 
 // == MAIN BAR ==
 .main-bar {
@@ -54,6 +50,7 @@ body {
 
 .main-bar-quote {
 	order: 5;
+	width: 100%;
 }
 
 .main-bar-toggler {
@@ -107,8 +104,32 @@ body {
 
 
 // === MAIN FOOTER ===
+.footline {
+	max-width: 960px;
+	padding: 1.5em 0;
+	margin: auto;
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: space-between;
+}
 .copyright {
 	text-align: center;
+}
+.art-quote {
+	margin-top: 0.5em;
+	margin-left: 0.5em;
+	font-style: italic;
+	font-size: 0.9em;
+	color: #333;
+	&::before {
+		content: "“";
+		padding-right: 1px;
+	}
+	&::after {
+		content: "”";
+		padding-left: 1px;
+	}
 }
 
 
