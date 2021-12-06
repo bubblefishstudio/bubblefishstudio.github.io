@@ -7,6 +7,7 @@
 	//max-width: 960px;
 	position: relative;
 	margin: auto;
+	padding-bottom: 0.5em;
 	font-family: "Courier New", monospace;
 	letter-spacing: -0.05em;
 	font-size: 0.95em;
@@ -21,18 +22,7 @@
 		top: -2rem;
 		left: -2rem;
 		right: -2rem;
-		bottom: -0.25rem;
-	}
-
-	.tilde {
-		text-align: center;
-		color: #888;
-		margin-bottom: 1em;
-		&::after {
-			content: "~";
-			transform: scaleX(3);
-			display: inline-block;
-		}
+		bottom: 0.5em;
 	}
 
 	p::before {
