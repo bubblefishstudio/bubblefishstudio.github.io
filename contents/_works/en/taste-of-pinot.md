@@ -1,7 +1,6 @@
 ---
 title: Off The Skins
 summary: A site-specific sound design for a historical exhibition.
-link: https://vimeo.com/591565838
 tags:
   - Acoustics
   - Composition

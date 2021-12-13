@@ -1,7 +1,6 @@
 ---
 title: Museum Memories
 summary: Sound Art for a cultural heritage exhibition.
-link: 
 tags:
   - Composition
   - Installation

@@ -1,7 +1,6 @@
 ---
 title: Museum Memories
 summary: Musica di sottofondo per una mostra sull'eredità culturale.
-link: 
 tags:
   - Composizione
   - Installazione

@@ -1,7 +1,6 @@
 ---
 title: Off The Skins
 summary: Sound design specifico per una mostra commemorativa.
-link: https://vimeo.com/591565838
 tags:
   - Acustica
   - Composizioni

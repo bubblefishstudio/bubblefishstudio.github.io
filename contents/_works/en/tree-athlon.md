@@ -1,7 +1,6 @@
 ---
 title: Do you hear the wind?
 summary: Tree installation for a Christmas contest
-link: 
 tags:
   - Installation
   - Sound Art
