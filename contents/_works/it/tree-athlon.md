@@ -10,6 +10,8 @@ thumbnail: /assets/works/tree-athlon/giuriati.jpg
 date: 2021-12-02
 ---
 
+> <mark>Ptss! Vota il nostro progetto scrivendo "3" in <a href="https://www.instagram.com/p/CXTy79stuNH/">questo post su Instagram</a> oppure con un like a <a href="https://www.facebook.com/polimi/photos/pcb.4709109562481064/4709102805815073">questo post su Facebook</a>. Grazie ;)</mark>
+
 Una volta che novembre è trascorso, il Natale si avvicina sempre di più. Si accendono le luci natalizie nelle strade mentre fa buio, scintillando di colori che si riflettono sulle mascherine dei passanti. Anche quando la tramontana soffia il gelo, si percepisce comunque un senso fiabesco di rilassatezza e gioia.
 
 *Tutti amano il Natale.*
