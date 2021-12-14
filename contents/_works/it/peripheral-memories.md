@@ -43,6 +43,9 @@ Il posizionamento dell'installazione di Yilin funge da attrattivo per i visitato
 
 ![Mixing al computer](/assets/works/peripheral-memories/mixing.jpg)
 
+## Link esterni
+- [Sito ufficiale della mostra](https://www.bsidewar.org/it/peripheral-memories/)
+
 ---
 - Periodo espositivo: *dal 13 al 28 novembre 2021*
 - Località: *Trieste, Italia*

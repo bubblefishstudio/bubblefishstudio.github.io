@@ -41,6 +41,9 @@ A specific on-site mixing and mastering has been done to make the soundtracks fi
 
 ![Mixing on computer](/assets/works/peripheral-memories/mixing.jpg)
 
+## External Resources
+- [Official website of the exhibition](https://www.bsidewar.org/en/peripheral-memories-2/)
+
 ---
 - Exhibition Time: *November 13th to 28th, 2021*
 - Location: *Trieste, Italy*
