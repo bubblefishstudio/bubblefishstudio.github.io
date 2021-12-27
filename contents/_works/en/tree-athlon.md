@@ -10,8 +10,6 @@ thumbnail: /assets/works/tree-athlon/giuriati.jpg
 date: 2021-12-02
 ---
 
-> <mark>Ptss! Vote for our project by commenting "3" <a href="https://www.instagram.com/p/CXTy79stuNH/">here on Instagram</a> or by liking <a href="https://www.facebook.com/polimi/photos/pcb.4709109562481064/4709102805815073">this post on Facebook</a>. Thanks ;)</mark>
-
 Once November has passed, Christmas gets closer and closer. The lights go up in the streets, twinkling in all sorts of colors as night falls, reflecting on the masked faces of passers-by. Even when the north wind blows with the coldness of snow and ice, we still feel a fairy-tale sense of peace and joy.
 
 *Everyone loves Christmas.*
