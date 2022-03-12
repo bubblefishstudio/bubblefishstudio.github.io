@@ -9,18 +9,18 @@ About Us
 
 > BubbleFish Studio is a multidisciplinary music studio.
 
-We are focused on making soundtracks and sound design for short films, museum exhibitions, art installations, indoor and outdoor spaces.
+We make soundtracks, sound design and sound art installations.
 Our objective is to make elegant, pure and beautiful works by creating, developing and supporting projects having an aim in propagating knowledge & culture or expressing human feelings & emotions.
-Our music production projects incorporate a computer-assisted approach in addition to a subjective aesthetic.
+We achieve it by employing computer technologies coupled with our subjective aesthetic.
 
-Contact us [info@bubblefish.studio](mailto:info@bubblefish.studio) for more info!
+Contact us [info@bubblefish.studio](mailto:info@bubblefish.studio) for enquiries and collaborations.
 
 ## Fields of Interest
 
-- soundtracks for different purposes and different places or circumstances
+- soundtracks for backgrounds, supporting exhibitions or enhancing locations
 - computational, generative, interactive music and graphical applications/installations
 - creative programming and multimedia interactive designs
-- computer aided musical research projects
+- computer music research projects
 
 ## Art and Engineering
 
