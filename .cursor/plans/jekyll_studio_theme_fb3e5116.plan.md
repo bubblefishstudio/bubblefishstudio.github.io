@@ -4,19 +4,19 @@ overview: "Rebuild this repo from scratch as an English-only Jekyll site: light 
 todos:
   - id: scaffold
     content: "Replace old Bootstrap/i18n theme with a new Jekyll scaffold: config, tokens (Source Serif 4 + Helvetica), default layout, nav, footer, GitHub Pages Ruby 3.2 workflow"
-    status: pending
+    status: completed
   - id: home-hero
     content: "Build English home: muted background-video hero, intro + curated showreel with audio, services + contact, who-we-are headshots (no works grid)"
-    status: pending
+    status: completed
   - id: works-theme
     content: "Build works index grouped by category, credits section with #credits anchor, case-study layout, and redirects from /credits and /about"
-    status: pending
+    status: completed
   - id: migrate-content
     content: Migrate live-site copy, categorized works, credits YAML, insights (live as source of truth); add old-URL redirects; no About page
-    status: pending
+    status: completed
   - id: polish-cutover
     content: SEO/Open Graph, compress hero + showreel video, local visual pass, then DNS cutover notes
-    status: pending
+    status: completed
 isProject: false
 ---
 
