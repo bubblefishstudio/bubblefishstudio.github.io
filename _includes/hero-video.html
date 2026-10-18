@@ -1,0 +1,15 @@
+<section class="hero" aria-label="Studio introduction">
+	<video
+		class="hero-media"
+		autoplay
+		muted
+		loop
+		playsinline
+		poster="{{ include.poster | default: '/assets/video/hero-poster.jpg' | relative_url }}"
+	>
+		<source src="{{ include.src | default: '/assets/video/showreel.mp4' | relative_url }}" type="video/mp4">
+	</video>
+	<div class="hero-overlay">
+		<p class="hero-line">{{ include.line | default: site.tagline }}</p>
+	</div>
+</section>

@@ -1,0 +1,78 @@
+- id: short-films
+  label: Short Films
+  entries:
+    - year: 2022
+      title: Scarlett Monster (红怪)
+      credit: Xinyi He
+    - year: 2023
+      title: Starren
+      credit: Tianshu Yang, Xiaoxuan Yu
+    - year: 2023
+      title: Small
+      credit: Joy Zou
+    - year: 2023
+      title: Crown Shyness (树冠羞避)
+      credit: Xueyi Fang
+    - year: 2023
+      title: Zhao Ye Qing (照夜清)
+      credit: Jiaqi Qian
+    - year: 2023
+      title: Huang Se Zhi Pi (黄色纸皮)
+      credit: Jingjia Wang
+    - year: 2023
+      title: Jin Bu (禁步)
+      credit: Saier He, Shuai Jin
+    - year: 2023
+      title: Experience Experiment Expectation (未觉录)
+      credit: Yutao Fang
+    - year: 2024
+      title: Who Fired The Gun (谁开的枪)
+      credit: Fujian Mingxi County People's Procuratorate
+    - year: 2024
+      title: Adventure Time with Mel
+      credit: Wenwen Li
+    - year: 2024
+      title: Goldfish Monster (金鱼怪入)
+      credit: Yusong Zhang
+    - year: 2024
+      title: Infinite Dust
+      credit: Nanxi Gong
+    - year: 2024
+      title: Trio
+      credit: Jialin Liu
+    - year: 2024
+      title: Catch
+      credit: Tianyi Li
+    - year: 2024
+      title: Prince of Chestnut (板栗王子)
+      credit: Qiang Hu
+    - year: 2024
+      title: Morning Glory (红绳)
+      credit: Rongyu Han
+    - year: 2024
+      title: Excédent de vie (过剩的生命)
+      credit: Haotian Li
+- id: exhibitions
+  label: Exhibitions
+  entries:
+    - year: 2021
+      title: Peripheral Memories I
+      credit: Trieste, Italy, IoDeposito Ngo
+    - year: 2021
+      title: Peripheral Memories II
+      credit: Udine, Italy, IoDeposito Ngo
+    - year: 2021
+      title: Off The Skins
+      credit: Venice, Italy, Current Corporate
+    - year: 2023
+      title: Interwoven Realms
+      credit: London, UK, Xiaoling Jin
+    - year: 2023
+      title: Per-Forma
+      credit: Gorizia, Italy, Associazione Quarantasettezeroquattro
+- id: video-games
+  label: Video Games
+  entries:
+    - year: 2023
+      title: Don’t Let Luke Fall
+      credit: Polimi Game Collective

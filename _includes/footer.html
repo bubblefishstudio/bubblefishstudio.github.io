@@ -1,6 +1,8 @@
-<div class="footline">
-	<div class="copyright" lang="en">©&nbsp;2021&nbsp;{{ site.title }}</div>
-	<div class="art-quote" lang="en">Art and Engineering are one and the same.<br>
-		Art is where beauty and soul reside. Engineering makes it happen.</div>
-</div>
-
+<footer class="site-footer">
+	<p class="copyright">© {{ site.time | date: '%Y' }} {{ site.title }} · VAT N. IT16567861006</p>
+	<ul class="social">
+		{% for link in site.data.social %}
+		<li><a href="{{ link.url }}" rel="me noopener" target="_blank">{{ link.name }}</a></li>
+		{% endfor %}
+	</ul>
+</footer>

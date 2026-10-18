@@ -1,64 +1,75 @@
 title: BubbleFish Studio
+tagline: Exploring Beauty in Sounds
+description: >-
+  A creative sound-art studio of two people based in Milano, Italy and Hangzhou, China.
+  Site-specific sound art installations and computational music projects.
+url: https://bubblefish.studio
 baseurl: ""
-url: "https://bubblefish.studio"
-repository: "bubblefishstudio/bubblefishstudio.github.io"
-sass.style: compressed
-future: true
-collections_dir: contents
+email: info@bubblefish.studio
+lang: en
+twitter:
+  username: bubblefishmusic
+
+markdown: kramdown
+kramdown:
+  input: GFM
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 collections:
   works:
     output: true
-  pages:
-    output: true
+    permalink: /works/:name/
   insights:
+    output: true
+    permalink: /insights/:name/
+  redirects:
     output: true
 
 defaults:
-  - # english versions (default)
-    scope:
+  - scope:
       path: ""
     values:
-      layout: "default"
-      lang: "en"
+      layout: default
+      image: /assets/video/hero-poster.jpg
+  - scope:
+      type: works
+    values:
+      layout: project
+  - scope:
+      type: insights
+    values:
+      layout: post
+  - scope:
+      type: redirects
+    values:
+      layout: redirect
+      sitemap: false
 
-  -
-    scope:
-      type: "pages"
-      path: "contents/_pages/*"
-    values:
-      permalink: ":path"
-  - # italian pages
-    scope:
-      type: "pages"
-      path: "contents/_pages/it/*"
-    values:
-      lang: "it"
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .bundle
+  - .github
+  - .vscode
+  - .cursor
+  - .DS_Store
 
-  -
-    scope:
-      type: "works"
-    values:
-      layout: "project"
-      permalink: "/en/:collection/:name"
-  - # italian projects
-    scope:
-      type: "works"
-      path: "contents/_works/it/*"
-    values:
-      permalink: "/it/:collection/:name"
-      lang: "it"
+include:
+  - CNAME
 
-  -
-    scope:
-      type: "insights"
-    values:
-      layout: "post"
-      permalink: "/en/:year/:month/:day/:name"
-  - # italian insights
-    scope:
-      type: "insights"
-      path: "contents/_insights/it/*"
-    values:
-      permalink: "/it/:year/:month/:day/:name"
-      lang: "it"
+work_categories:
+  - id: animations
+    label: Animations
+  - id: short-film
+    label: Short film
+  - id: exhibitions
+    label: Exhibitions
+  - id: computational
+    label: Computational

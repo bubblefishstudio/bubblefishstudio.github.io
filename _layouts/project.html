@@ -1,9 +1,29 @@
-{% capture main %}
-<main class="content project-page">
-	<h1>{{ page.title }}</h1>
-	<blockquote class="project-summary">{{ page.summary }}</blockquote>
-	{{ content }}
-</main>
-{% endcapture %}
+---
+layout: default
+---
+<article class="project">
+	{% if page.hero or page.thumbnail %}
+	<header class="project-hero">
+		<img src="{{ page.hero | default: page.thumbnail | relative_url }}" alt="">
+	</header>
+	{% endif %}
 
-{% include layout1.html main=main lang=page.lang %}
+	<div class="project-body">
+		<p class="project-meta">
+			{% if page.year %}<span>{{ page.year }}</span>{% endif %}
+			{% if page.category %}
+				{% assign cat = site.work_categories | where: "id", page.category | first %}
+				<span>{{ cat.label | default: page.category }}</span>
+			{% endif %}
+			{% if page.location %}<span>{{ page.location }}</span>{% endif %}
+			{% if page.collaborators %}<span>{{ page.collaborators }}</span>{% endif %}
+		</p>
+		<h1>{{ page.title }}</h1>
+		{% if page.summary %}
+		<p class="lede">{{ page.summary }}</p>
+		{% endif %}
+		<div class="project-content">
+			{{ content }}
+		</div>
+	</div>
+</article>

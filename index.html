@@ -1,0 +1,48 @@
+---
+layout: home
+title: BubbleFish Studio
+permalink: /
+---
+{% include hero-video.html line="Exploring beauty in sounds" %}
+
+<section class="section" id="studio">
+	<div class="section-split">
+		<div class="intro-copy">
+			<p class="section-kicker">Studio</p>
+			<h2>Exploring Beauty in Sounds</h2>
+			<p>We are a creative sound-art studio of two people based in Milano, Italy and Hangzhou, China. We create site-specific sound art installations and computational music projects. We express emotions, spatial and geographical data, knowledge and technology into sound art, which is invisible and subtle across different media and forms.</p>
+			<p>Our sound artworks derive from applying different methodologies such as field recordings, signal processing, sound synthesis, experimental techniques and instrumental sounds.</p>
+			<p>We are and will continue to explore the beauty and meaning that sound can convey. If your project requires music or sound collaboration, we would be happy to discuss it with you.</p>
+		</div>
+		{% include showreel.html %}
+	</div>
+</section>
+
+<section class="section services" id="contact">
+	<div class="services-head">
+		<div>
+			<p class="section-kicker">What we create</p>
+			<h2>Our services</h2>
+		</div>
+		<a class="btn" href="mailto:{{ site.email }}">Get in touch</a>
+	</div>
+	<div class="services-grid">
+		{% for service in site.data.services %}
+		<article class="service">
+			<h3>{{ service.title }}</h3>
+			<p>{{ service.text }}</p>
+		</article>
+		{% endfor %}
+	</div>
+</section>
+
+<section class="section" id="who-we-are">
+	<p class="section-kicker">The studio</p>
+	<h2>Who we are</h2>
+	<p class="lede">A unique studio founded by two artists. We make pure and beautiful works by coupling computer technologies with a subjective sense of beauty — for knowledge, culture, and human feeling.</p>
+	<div class="who-grid">
+		{% for person in site.data.people %}
+			{% include person.html person=person %}
+		{% endfor %}
+	</div>
+</section>

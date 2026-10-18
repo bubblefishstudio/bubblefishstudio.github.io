@@ -1,0 +1,14 @@
+<article class="person">
+	<div class="person-photo{% unless include.person.photo %} is-placeholder{% endunless %}">
+		{% if include.person.photo %}
+		<img src="{{ include.person.photo | relative_url }}" alt="{{ include.person.name }}">
+		{% else %}
+		<span aria-hidden="true">{{ include.person.name | slice: 0 }}</span>
+		{% endif %}
+	</div>
+	<div class="person-copy">
+		<h3>{{ include.person.name }}</h3>
+		{% if include.person.role %}<p class="person-role">{{ include.person.role }}</p>{% endif %}
+		<p>{{ include.person.bio }}</p>
+	</div>
+</article>

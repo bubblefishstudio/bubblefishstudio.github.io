@@ -1,8 +1,4 @@
 source "https://rubygems.org"
 
-group :jekyll_plugins do
-	gem "github-pages"
-	gem 'bootstrap', '~> 5.0.1'
-end
-
-gem "webrick", "~> 1.7"
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.8"

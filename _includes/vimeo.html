@@ -1,8 +1,9 @@
-<div class="vimeo-frame">
-	<iframe src="{{ include.src }}"
-		style=""
-		frameborder="0"
+<div class="embed vimeo-embed">
+	<iframe
+		src="{{ include.src }}"
+		title="{{ include.title | default: 'Vimeo video' }}"
 		allow="autoplay; fullscreen; picture-in-picture"
-		allowfullscreen>
-	</iframe>
+		allowfullscreen
+		loading="lazy"
+	></iframe>
 </div>

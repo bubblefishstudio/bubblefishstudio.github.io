@@ -1,0 +1,13 @@
+<article class="work-card">
+	<a href="{{ include.work.url }}">
+		<div class="work-card-media">
+			{% if include.work.thumbnail %}
+			<img src="{{ include.work.thumbnail | relative_url }}" alt="">
+			{% endif %}
+		</div>
+		<h3>{{ include.work.title }}</h3>
+		{% if include.work.summary %}
+		<p>{{ include.work.summary }}</p>
+		{% endif %}
+	</a>
+</article>

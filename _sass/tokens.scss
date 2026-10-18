@@ -1,0 +1,25 @@
+:root {
+	--paper: #f6f5f2;
+	--paper-deep: #f1f0ed;
+	--ink: #1a1a1a;
+	--muted: #6b6b6b;
+	--line: rgba(26, 26, 26, 0.12);
+	--serif: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, serif;
+	--sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--measure: 38rem;
+	--page: min(1120px, calc(100% - 3rem));
+	--gutter: clamp(1.25rem, 4vw, 2.5rem);
+	--section: clamp(4rem, 10vw, 8rem);
+	--radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+}

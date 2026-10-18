@@ -1,26 +1,22 @@
-{% assign insights_collection = site.collections | where: "label", "insights" | first %}
-{% assign insights_docs = insights_collection.docs | where: "lang", page.lang | sort: "date" | reverse | group_by_exp: "item", "item.date | split: '-' | first" %}
-
-{% capture main %}
-<main class="content insights">
-	<ol class="insights-list">
-		{% for year_docs in insights_docs %}
-		<li class="insight-year-group">
-			<date class="insight-year">
-				{{ year_docs.name }}
-			</date>
-			<ol class="insight-year-list">
-				{% for entry in year_docs.items %}
-					<li class="insight-entry">
-						<time datetime="{{ entry.date | date: '%F' }}" class="insight-entry-date">{{ entry.date | date: "%m-%d" }}</time>
-						<a class="insight-entry-link" href="{{ entry.url }}">{{ entry.title }}</a>
-					</li>
-				{% endfor %}
-			</ol>
+---
+layout: default
+---
+<article class="page insights-page">
+	<header class="page-header">
+		<h1>{{ page.title }}</h1>
+	</header>
+	<ul class="insights-list">
+		{% assign posts = site.insights | sort: "date" | reverse %}
+		{% for post in posts %}
+		<li>
+			<a href="{{ post.url }}">
+				<h2>{{ post.title }}</h2>
+				<p>
+					{% if post.author %}<span>{{ post.author }}</span>{% endif %}
+					<time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%Y/%m/%d" }}</time>
+				</p>
+			</a>
 		</li>
 		{% endfor %}
-	</ol>
-</main>
-{% endcapture %}
-
-{% include layout1.html main=main lang=page.lang %}
+	</ul>
+</article>
