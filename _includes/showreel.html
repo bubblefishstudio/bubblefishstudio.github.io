@@ -3,8 +3,8 @@
 		controls
 		playsinline
 		preload="metadata"
-		poster="{{ include.poster | default: '/assets/video/hero-poster.jpg' | relative_url }}"
+		poster="{{ include.poster | default: '/assets/video/hero-poster.webp' | relative_url }}"
 	>
-		<source src="{{ include.src | default: '/assets/video/showreel.mp4' | relative_url }}" type="video/mp4">
+		<source src="{{ include.src | default: '/assets/video/showreel.webm' | relative_url }}" type="video/webm">
 	</video>
 </div>
