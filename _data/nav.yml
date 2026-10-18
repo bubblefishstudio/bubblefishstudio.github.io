@@ -1,7 +1,9 @@
-- title: Works
+- title: Portfolio
   url: /works/
-- title: Insights
-  url: /insights/
+- title: Credits
+  url: /works/#credits
+#- title: Insights
+#  url: /insights/
 - title: Contact
   url: /#contact
   cta: true
